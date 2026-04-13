@@ -1,13 +1,16 @@
-import pymupdf as fitz
-from PIL import Image
 import io
+from PIL import Image
+import pymupdf as fitz
 
-from config import OCR_LANG, OCR_DPI
+from config import OCR_LANG, OCR_DPI, TESSERACT_CMD
 
 try:
     import pytesseract
 except ImportError:
     pytesseract = None
+
+if pytesseract is not None and TESSERACT_CMD:
+    pytesseract.pytesseract.tesseract_cmd = TESSERACT_CMD
 
 
 def extract_pdf_text_mode(pdf_path: str):
@@ -39,6 +42,7 @@ def extract_pdf_blocks_mode(pdf_path: str):
                 texts.append(block_text)
 
         page_text = "\n".join(texts)
+
         pages.append({
             "page": page_num,
             "text": page_text
@@ -52,14 +56,8 @@ def count_non_empty_pages(pages):
 
 
 def ocr_pdf_pages(pdf_path: str, lang: str = OCR_LANG, dpi: int = OCR_DPI):
-    """
-    OCR fallback untuk PDF scan / image-based.
-    Butuh Tesseract OCR terinstall di OS.
-    """
     if pytesseract is None:
-        raise RuntimeError(
-            "pytesseract belum terinstall. Jalankan: pip install pytesseract Pillow"
-        )
+        raise RuntimeError("pytesseract belum terinstall.")
 
     doc = fitz.open(pdf_path)
     pages = []
@@ -80,12 +78,6 @@ def ocr_pdf_pages(pdf_path: str, lang: str = OCR_LANG, dpi: int = OCR_DPI):
 
 
 def extract_pdf(pdf_path: str, mode: str = "blocks", use_ocr_fallback: bool = False):
-    """
-    Urutan:
-    1. coba mode utama
-    2. coba mode alternatif
-    3. kalau diminta dan masih banyak kosong -> OCR
-    """
     if mode == "blocks":
         primary = extract_pdf_blocks_mode(pdf_path)
         secondary = extract_pdf_text_mode(pdf_path)
@@ -109,7 +101,7 @@ def extract_pdf(pdf_path: str, mode: str = "blocks", use_ocr_fallback: bool = Fa
         used_mode = primary_name
         best_non_empty = primary_non_empty
 
-    # OCR fallback kalau hasil masih sangat buruk
+    # fallback OCR kalau hasil ekstraksi biasa terlalu buruk
     if use_ocr_fallback and best_non_empty <= max(1, int(len(best_pages) * 0.1)):
         ocr_pages = ocr_pdf_pages(pdf_path)
         ocr_non_empty = count_non_empty_pages(ocr_pages)

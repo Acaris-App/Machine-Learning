@@ -33,28 +33,28 @@ def is_valid_chunk(text: str) -> bool:
     if "................................" in t:
         return False
 
-    if "penanggung jawab" in t and "tanda tangan" in t:
-        return False
-
     return True
 
 
+def trim_regulation_to_substantive_text(full_text: str) -> str:
+    """
+    Untuk peraturan akademik/rektor:
+    buang preamble sebelum Pasal 1.
+    """
+    match = re.search(r"\bPasal\s+1\b", full_text, flags=re.IGNORECASE)
+    if match:
+        return full_text[match.start():].strip()
+    return full_text.strip()
+
+
 def split_regulation_sections(full_text: str) -> List[str]:
-    """
-    Untuk peraturan akademik dan peraturan rektor:
-    split utama per Pasal.
-    """
-    text = normalize_text(full_text)
+    text = normalize_text(trim_regulation_to_substantive_text(full_text))
     parts = re.split(r"(?=\bPasal\s+\d+\b)", text, flags=re.IGNORECASE)
     parts = [p.strip() for p in parts if p.strip()]
     return parts if parts else [text]
 
 
 def split_curriculum_sections(full_text: str) -> List[str]:
-    """
-    Untuk kurikulum:
-    split per BAB atau subbab utama.
-    """
     text = normalize_text(full_text)
     parts = re.split(
         r"(?=(?:\bBAB\s+[IVXLCDM]+\b|^\d+\.\d+\.?\s))",
@@ -69,7 +69,7 @@ def sliding_window_chunk(
     text: str,
     chunk_size_words: int = CHUNK_SIZE_WORDS,
     overlap_words: int = CHUNK_OVERLAP_WORDS,
-    min_chunk_words: int = MIN_CHUNK_WORDS
+    min_chunk_words: int = MIN_CHUNK_WORDS,
 ) -> List[str]:
     words = text.split()
 
@@ -99,11 +99,9 @@ def sliding_window_chunk(
 
 
 def find_pages_for_text(page_map: List[Dict], section_text: str, full_text: str) -> Tuple[int, int]:
-    """
-    Cari estimasi page_start dan page_end dari posisi section_text di full_text.
-    """
     section_text = section_text.strip()
     idx = full_text.find(section_text)
+
     if idx == -1:
         if page_map:
             return page_map[0]["page"], page_map[-1]["page"]
@@ -136,18 +134,18 @@ def extract_titles_from_section(section_text: str, doc_type: str) -> Dict:
     section_title = None
     subsection_title = None
 
-    for line in lines[:30]:
+    for line in lines[:40]:
         if re.match(r"^BAB\s+[IVXLCDM]+", line, flags=re.IGNORECASE):
             chapter_title = line
             break
 
     if doc_type in {"peraturan_akademik", "peraturan_rektor"}:
-        for line in lines[:30]:
+        for line in lines[:40]:
             if re.match(r"^Pasal\s+\d+", line, flags=re.IGNORECASE):
                 section_title = line
                 break
     else:
-        for line in lines[:30]:
+        for line in lines[:40]:
             if re.match(r"^\d+\.\d+\.?", line):
                 subsection_title = line
                 break
@@ -166,7 +164,7 @@ def chunk_document(
     doc_type: str,
     chunk_size_words: int = CHUNK_SIZE_WORDS,
     overlap_words: int = CHUNK_OVERLAP_WORDS,
-    min_chunk_words: int = MIN_CHUNK_WORDS
+    min_chunk_words: int = MIN_CHUNK_WORDS,
 ) -> List[Dict]:
     full_text = normalize_text(full_text)
     if not full_text:
@@ -188,7 +186,7 @@ def chunk_document(
             section_text,
             chunk_size_words=chunk_size_words,
             overlap_words=overlap_words,
-            min_chunk_words=min_chunk_words
+            min_chunk_words=min_chunk_words,
         )
 
         if not chunks and word_count(section_text) >= min_chunk_words:
@@ -196,6 +194,7 @@ def chunk_document(
 
         for local_idx, chunk_text in enumerate(chunks, start=1):
             chunk_text = normalize_text(chunk_text)
+
             if not is_valid_chunk(chunk_text):
                 continue
 
@@ -211,7 +210,7 @@ def chunk_document(
                 "section_index": sec_idx,
                 "chunk_index_in_section": local_idx,
                 "word_count": word_count(chunk_text),
-                "text": chunk_text
+                "text": chunk_text,
             })
             chunk_counter += 1
 

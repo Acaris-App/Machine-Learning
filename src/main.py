@@ -1,3 +1,4 @@
+from pathlib import Path
 from tqdm import tqdm
 
 from config import (
@@ -30,11 +31,10 @@ def process_one_pdf(pdf_config: dict):
 
     print(f"\n=== Processing: {file_name} ===")
 
-    # 1. Extract
     extracted_pages, used_mode = extract_pdf(
         str(pdf_path),
         mode=extract_mode,
-        use_ocr_fallback=use_ocr_fallback
+        use_ocr_fallback=use_ocr_fallback,
     )
 
     extracted_output_path = EXTRACTED_DIR / f"{slugify_filename(file_name)}_raw.json"
@@ -44,12 +44,11 @@ def process_one_pdf(pdf_config: dict):
         "doc_title": doc_title,
         "requested_extract_mode": extract_mode,
         "used_extract_mode": used_mode,
-        "pages": extracted_pages
+        "pages": extracted_pages,
     }, extracted_output_path)
 
     print(f"[OK] Extracted saved -> {extracted_output_path}")
 
-    # 2. Clean
     cleaned_pages = clean_document_pages(extracted_pages, doc_type=doc_type)
 
     cleaned_output_path = CLEANED_DIR / f"{slugify_filename(file_name)}_cleaned.json"
@@ -59,16 +58,14 @@ def process_one_pdf(pdf_config: dict):
         "doc_title": doc_title,
         "used_extract_mode": used_mode,
         "total_cleaned_pages": len(cleaned_pages),
-        "pages": cleaned_pages
+        "pages": cleaned_pages,
     }, cleaned_output_path)
 
     print(f"[OK] Cleaned saved -> {cleaned_output_path}")
     print(f"[INFO] Total cleaned pages: {len(cleaned_pages)}")
 
-    # 3. Combine
     full_text, page_map = combine_pages_to_document(cleaned_pages)
 
-    # 4. Chunk
     chunks = chunk_document(
         full_text=full_text,
         page_map=page_map,
@@ -76,7 +73,7 @@ def process_one_pdf(pdf_config: dict):
         doc_type=doc_type,
         chunk_size_words=CHUNK_SIZE_WORDS,
         overlap_words=CHUNK_OVERLAP_WORDS,
-        min_chunk_words=MIN_CHUNK_WORDS
+        min_chunk_words=MIN_CHUNK_WORDS,
     )
 
     chunked_output_path = CHUNKED_DIR / f"{slugify_filename(file_name)}_chunks.json"
@@ -88,7 +85,7 @@ def process_one_pdf(pdf_config: dict):
         "chunk_size_words": CHUNK_SIZE_WORDS,
         "chunk_overlap_words": CHUNK_OVERLAP_WORDS,
         "total_chunks": len(chunks),
-        "chunks": chunks
+        "chunks": chunks,
     }, chunked_output_path)
 
     print(f"[OK] Chunks saved -> {chunked_output_path}")
@@ -103,7 +100,7 @@ def process_one_pdf(pdf_config: dict):
         "total_chunks": len(chunks),
         "extract_output": str(extracted_output_path),
         "clean_output": str(cleaned_output_path),
-        "chunk_output": str(chunked_output_path)
+        "chunk_output": str(chunked_output_path),
     }
 
 

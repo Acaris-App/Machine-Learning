@@ -1,7 +1,11 @@
 import re
 from typing import List, Dict, Tuple
 
-from config import MIN_MEANINGFUL_WORDS_PER_PAGE
+from config import (
+    FRONT_MATTER_KEYWORDS,
+    CURRICULUM_END_MARKERS,
+    MIN_MEANINGFUL_WORDS_PER_PAGE,
+)
 
 
 def word_count(text: str) -> int:
@@ -17,7 +21,7 @@ def basic_clean(text: str) -> str:
     text = text.replace("\uf0b7", "•")
     text = text.replace("\u00a0", " ")
 
-    # gabung kata terpotong oleh hyphen line break
+    # gabung kata yang terpotong line break
     text = re.sub(r"(\w+)-\n(\w+)", r"\1\2", text)
 
     # rapikan whitespace
@@ -25,10 +29,8 @@ def basic_clean(text: str) -> str:
     text = re.sub(r" +\n", "\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
 
-    # trim tiap baris
+    # trim per line
     text = "\n".join(line.strip() for line in text.splitlines())
-
-    # rapikan baris kosong
     text = re.sub(r"\n\s*\n\s*\n+", "\n\n", text)
 
     return text.strip()
@@ -39,7 +41,6 @@ def remove_common_noise(text: str) -> str:
     text = re.sub(r"(?m)^\s*(?:[ivxlcdm]+)\s*$", "", text, flags=re.IGNORECASE)
     text = re.sub(r"(?m)^[_\-=\s]{5,}$", "", text)
 
-    # header/footer umum
     text = re.sub(r"(?im)^universitas lampung\s*$", "", text)
     text = re.sub(r"(?im)^kementerian pendidikan.*?$", "", text)
     text = re.sub(r"(?im)^telepon.*?$", "", text)
@@ -51,9 +52,36 @@ def remove_common_noise(text: str) -> str:
     return text.strip()
 
 
+def is_heading_like(line: str) -> bool:
+    line = line.strip()
+
+    patterns = [
+        r"^BAB\s+[IVXLCDM]+",
+        r"^Pasal\s+\d+",
+        r"^Menimbang:",
+        r"^Mengingat:",
+        r"^Memutuskan:",
+        r"^Menetapkan:",
+        r"^\(\d+\)",
+        r"^[a-zA-Z]\.",
+        r"^\d+\.\d+\.?",
+        r"^\d+\.",
+    ]
+
+    for p in patterns:
+        if re.match(p, line, flags=re.IGNORECASE):
+            return True
+
+    # heading uppercase pendek
+    if line.isupper() and len(line.split()) <= 12:
+        return True
+
+    return False
+
+
 def normalize_lines(text: str) -> str:
     """
-    Gabungkan line yang pecah tapi tetap jaga heading/pasal/subjudul.
+    Gabungkan baris pecah, tapi jangan satukan heading ke paragraf berikutnya.
     """
     if not text:
         return ""
@@ -61,18 +89,12 @@ def normalize_lines(text: str) -> str:
     lines = [line.strip() for line in text.splitlines()]
     merged = []
 
-    heading_pattern = re.compile(
-        r"^(BAB\s+[IVXLCDM]+|Pasal\s+\d+|Menimbang:|Mengingat:|Memutuskan:|Menetapkan:|\(\d+\)|[a-zA-Z]\.|"
-        r"\d+\.\d+\.?|\d+\.)",
-        flags=re.IGNORECASE
-    )
-
     for line in lines:
         if not line:
             merged.append("")
             continue
 
-        if heading_pattern.match(line):
+        if is_heading_like(line):
             merged.append(line)
             continue
 
@@ -81,11 +103,13 @@ def normalize_lines(text: str) -> str:
             continue
 
         prev = merged[-1]
-        if (
-            prev
-            and not prev.endswith((".", ":", ";", "?", "!"))
-            and not heading_pattern.match(line)
-        ):
+
+        # kalau prev heading, jangan digabung
+        if is_heading_like(prev):
+            merged.append(line)
+            continue
+
+        if prev and not prev.endswith((".", ":", ";", "?", "!")):
             merged[-1] = prev + " " + line
         else:
             merged.append(line)
@@ -95,52 +119,54 @@ def normalize_lines(text: str) -> str:
     return text.strip()
 
 
-def is_front_matter_page(text: str, doc_type: str) -> bool:
+def is_front_matter_page(text: str) -> bool:
     t = (text or "").lower().strip()
-    wc = word_count(t)
 
-    if wc < MIN_MEANINGFUL_WORDS_PER_PAGE:
+    if word_count(t) < MIN_MEANINGFUL_WORDS_PER_PAGE:
         return True
 
-    common_front = [
-        "lembar pengesahan",
-        "kata pengantar",
-        "daftar isi",
-        "daftar tabel",
-        "daftar gambar",
-        "halaman sampul",
-    ]
-
-    if any(x in t for x in common_front):
-        if "bab i" not in t and "pasal 1" not in t:
-            return True
-
-    if doc_type == "kurikulum":
-        if "tim penyusun kurikulum" in t or "dokumen kurikulum program studi" in t:
-            return True
-
-    return False
+    return any(k in t for k in FRONT_MATTER_KEYWORDS)
 
 
-def page_has_substantive_start(text: str, doc_type: str) -> bool:
-    t = (text or "").lower()
+def page_has_true_start_marker(text: str, doc_type: str) -> bool:
+    """
+    Cek start marker yang benar-benar ada sebagai heading halaman,
+    bukan sekadar tercantum di daftar isi.
+    """
+    lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+    first_lines = lines[:12]
 
-    if doc_type == "kurikulum":
-        return "bab i identitas program studi" in t
+    joined_lower = "\n".join(first_lines).lower()
+
+    # kalau masih daftar isi, jangan dianggap start marker
+    if "daftar isi" in joined_lower:
+        return False
 
     if doc_type == "peraturan_akademik":
-        return ("bab i ketentuan umum" in t) or ("pasal 1" in t)
+        for line in first_lines:
+            if re.match(r"^BAB\s+I\b", line, flags=re.IGNORECASE):
+                return True
+            if re.match(r"^Pasal\s+1\b", line, flags=re.IGNORECASE):
+                return True
+
+    if doc_type == "kurikulum":
+        for line in first_lines:
+            if re.match(r"^BAB\s+I\b", line, flags=re.IGNORECASE):
+                # harus heading sungguhan, bukan string di daftar isi
+                if "identitas program studi" in line.lower():
+                    return True
 
     if doc_type == "peraturan_rektor":
-        return ("bab i ketentuan umum" in t) or ("pasal 1" in t)
+        for line in first_lines:
+            if re.match(r"^BAB\s+I\b", line, flags=re.IGNORECASE):
+                return True
+            if re.match(r"^Pasal\s+1\b", line, flags=re.IGNORECASE):
+                return True
 
     return False
 
 
-def trim_document_front_matter(cleaned_pages: List[Dict], doc_type: str) -> List[Dict]:
-    """
-    Buang halaman awal sampai ketemu bagian isi utama.
-    """
+def trim_front_matter(cleaned_pages: List[Dict], doc_type: str) -> List[Dict]:
     if not cleaned_pages:
         return []
 
@@ -148,8 +174,7 @@ def trim_document_front_matter(cleaned_pages: List[Dict], doc_type: str) -> List
     found = False
 
     for idx, item in enumerate(cleaned_pages):
-        text = item.get("cleaned_text", "")
-        if page_has_substantive_start(text, doc_type):
+        if page_has_true_start_marker(item["cleaned_text"], doc_type):
             start_idx = idx
             found = True
             break
@@ -157,8 +182,36 @@ def trim_document_front_matter(cleaned_pages: List[Dict], doc_type: str) -> List
     if found:
         return cleaned_pages[start_idx:]
 
-    # fallback: kalau tidak ketemu, pakai hasil yang sudah ada
     return cleaned_pages
+
+
+def trim_curriculum_back_matter(cleaned_pages: List[Dict]) -> List[Dict]:
+    if not cleaned_pages:
+        return []
+
+    for idx, item in enumerate(cleaned_pages):
+        t = item["cleaned_text"].upper()
+        for marker in CURRICULUM_END_MARKERS:
+            if marker.upper() in t:
+                return cleaned_pages[:idx]
+
+    return cleaned_pages
+
+
+def normalize_chapter_title(lines: List[str], start_idx: int) -> str:
+    """
+    Ambil chapter_title yang ringkas dan bersih.
+    Kalau line pertama hanya 'BAB I', gabungkan dengan line berikutnya jika cocok.
+    """
+    line = re.sub(r"\.{3,}.*$", "", lines[start_idx]).strip()
+
+    if re.match(r"^BAB\s+[IVXLCDM]+$", line, flags=re.IGNORECASE):
+        if start_idx + 1 < len(lines):
+            next_line = re.sub(r"\.{3,}.*$", "", lines[start_idx + 1]).strip()
+            if next_line and len(next_line.split()) <= 12:
+                return f"{line} {next_line}".strip()
+
+    return line.strip()
 
 
 def extract_structure_metadata(text: str) -> Dict:
@@ -168,19 +221,19 @@ def extract_structure_metadata(text: str) -> Dict:
 
     lines = [line.strip() for line in text.splitlines() if line.strip()]
 
-    for line in lines[:30]:
+    for i, line in enumerate(lines[:50]):
         if re.match(r"^BAB\s+[IVXLCDM]+", line, flags=re.IGNORECASE):
-            chapter_title = line
+            chapter_title = normalize_chapter_title(lines, i)
             break
 
-    for line in lines[:30]:
+    for line in lines[:50]:
         if re.match(r"^Pasal\s+\d+", line, flags=re.IGNORECASE):
-            section_title = line
+            section_title = line.strip()
             break
 
-    for line in lines[:30]:
+    for line in lines[:50]:
         if re.match(r"^\d+\.\d+\.?", line):
-            subsection_title = line
+            subsection_title = line.strip()
             break
 
     return {
@@ -195,14 +248,15 @@ def clean_page_text(text: str, doc_type: str) -> str:
     text = remove_common_noise(text)
     text = normalize_lines(text)
 
-    # buang sisa halaman yang full daftar isi/tabel
     lower = text.lower()
+
+    # daftar isi/tabel/gambar non-substantif
     if (
-        "daftar isi" in lower
-        or "daftar tabel" in lower
-        or "daftar gambar" in lower
+        ("daftar isi" in lower) or
+        ("daftar tabel" in lower) or
+        ("daftar gambar" in lower)
     ):
-        if "bab i" not in lower and "pasal 1" not in lower:
+        if not page_has_true_start_marker(text, doc_type):
             return ""
 
     return text.strip()
@@ -213,36 +267,36 @@ def clean_document_pages(pages: List[Dict], doc_type: str) -> List[Dict]:
 
     for item in pages:
         raw_text = item.get("text", "")
-        cleaned_text = clean_page_text(raw_text, doc_type=doc_type)
+        cleaned_text = clean_page_text(raw_text, doc_type)
 
         if not cleaned_text:
             continue
 
-        if is_front_matter_page(cleaned_text, doc_type=doc_type):
+        if is_front_matter_page(cleaned_text) and not page_has_true_start_marker(cleaned_text, doc_type):
             continue
 
-        struct_meta = extract_structure_metadata(cleaned_text)
+        meta = extract_structure_metadata(cleaned_text)
 
         cleaned_pages.append({
             "page": item["page"],
             "raw_text": raw_text,
             "cleaned_text": cleaned_text,
-            "chapter_title": struct_meta["chapter_title"],
-            "section_title": struct_meta["section_title"],
-            "subsection_title": struct_meta["subsection_title"],
+            "chapter_title": meta["chapter_title"],
+            "section_title": meta["section_title"],
+            "subsection_title": meta["subsection_title"],
         })
 
-    cleaned_pages = trim_document_front_matter(cleaned_pages, doc_type=doc_type)
+    cleaned_pages = trim_front_matter(cleaned_pages, doc_type)
+
+    if doc_type == "kurikulum":
+        cleaned_pages = trim_curriculum_back_matter(cleaned_pages)
+
     return cleaned_pages
 
 
 def combine_pages_to_document(cleaned_pages: List[Dict]) -> Tuple[str, List[Dict]]:
-    """
-    Gabungkan seluruh halaman menjadi satu dokumen, tapi tetap simpan page map.
-    """
     parts = []
     page_map = []
-
     cursor = 0
 
     for item in cleaned_pages:

@@ -3,7 +3,7 @@
   "doc_type": "peraturan_akademik",
   "doc_title": "Peraturan Akademik",
   "requested_extract_mode": "blocks",
-  "used_extract_mode": "primary",
+  "used_extract_mode": "blocks",
   "pages": [
     {
       "page": 1,

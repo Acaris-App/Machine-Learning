@@ -3,10 +3,10 @@
     "status": "success",
     "file_name": "peraturan_akademik.pdf",
     "doc_type": "peraturan_akademik",
-    "used_extract_mode": "primary",
+    "used_extract_mode": "blocks",
     "total_pages": 77,
-    "total_cleaned_pages": 69,
-    "total_chunks": 133,
+    "total_cleaned_pages": 70,
+    "total_chunks": 116,
     "extract_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\extracted\\peraturan_akademik_raw.json",
     "clean_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\cleaned\\peraturan_akademik_cleaned.json",
     "chunk_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\chunked\\peraturan_akademik_chunks.json"
@@ -15,24 +15,18 @@
     "status": "success",
     "file_name": "kurikulum_ti_unika.pdf",
     "doc_type": "kurikulum",
-    "used_extract_mode": "primary",
+    "used_extract_mode": "blocks",
     "total_pages": 93,
-    "total_cleaned_pages": 86,
-    "total_chunks": 83,
+    "total_cleaned_pages": 84,
+    "total_chunks": 53,
     "extract_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\extracted\\kurikulum_ti_unika_raw.json",
     "clean_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\cleaned\\kurikulum_ti_unika_cleaned.json",
     "chunk_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\chunked\\kurikulum_ti_unika_chunks.json"
   },
   {
-    "status": "success",
+    "status": "failed",
     "file_name": "peraturan_rektor.pdf",
     "doc_type": "peraturan_rektor",
-    "used_extract_mode": "primary",
-    "total_pages": 73,
-    "total_cleaned_pages": 0,
-    "total_chunks": 0,
-    "extract_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\extracted\\peraturan_rektor_raw.json",
-    "clean_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\cleaned\\peraturan_rektor_cleaned.json",
-    "chunk_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\chunked\\peraturan_rektor_chunks.json"
+    "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
   }
 ]

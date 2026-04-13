@@ -3,7 +3,7 @@
   "doc_type": "kurikulum",
   "doc_title": "Kurikulum Program Studi Teknik Informatika",
   "requested_extract_mode": "blocks",
-  "used_extract_mode": "primary",
+  "used_extract_mode": "blocks",
   "pages": [
     {
       "page": 1,

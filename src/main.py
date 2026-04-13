@@ -1,4 +1,3 @@
-from pathlib import Path
 from tqdm import tqdm
 
 from config import (
@@ -14,14 +13,16 @@ from config import (
 )
 from utils import ensure_dirs, save_json, slugify_filename
 from extract_pdf import extract_pdf
-from clean_text import clean_document_pages
-from chunking import chunk_document_pages
+from clean_text import clean_document_pages, combine_pages_to_document
+from chunking import chunk_document
 
 
-def process_one_pdf(pdf_config: dict, extract_mode: str = "blocks"):
+def process_one_pdf(pdf_config: dict):
     file_name = pdf_config["file_name"]
     doc_type = pdf_config["doc_type"]
     doc_title = pdf_config["doc_title"]
+    extract_mode = pdf_config.get("extract_mode", "blocks")
+    use_ocr_fallback = pdf_config.get("use_ocr_fallback", False)
 
     pdf_path = DATA_DIR / file_name
     if not pdf_path.exists():
@@ -30,14 +31,19 @@ def process_one_pdf(pdf_config: dict, extract_mode: str = "blocks"):
     print(f"\n=== Processing: {file_name} ===")
 
     # 1. Extract
-    extracted_pages = extract_pdf(str(pdf_path), mode=extract_mode)
+    extracted_pages, used_mode = extract_pdf(
+        str(pdf_path),
+        mode=extract_mode,
+        use_ocr_fallback=use_ocr_fallback
+    )
 
     extracted_output_path = EXTRACTED_DIR / f"{slugify_filename(file_name)}_raw.json"
     save_json({
         "doc_name": file_name,
         "doc_type": doc_type,
         "doc_title": doc_title,
-        "extract_mode": extract_mode,
+        "requested_extract_mode": extract_mode,
+        "used_extract_mode": used_mode,
         "pages": extracted_pages
     }, extracted_output_path)
 
@@ -51,14 +57,21 @@ def process_one_pdf(pdf_config: dict, extract_mode: str = "blocks"):
         "doc_name": file_name,
         "doc_type": doc_type,
         "doc_title": doc_title,
+        "used_extract_mode": used_mode,
+        "total_cleaned_pages": len(cleaned_pages),
         "pages": cleaned_pages
     }, cleaned_output_path)
 
     print(f"[OK] Cleaned saved -> {cleaned_output_path}")
+    print(f"[INFO] Total cleaned pages: {len(cleaned_pages)}")
 
-    # 3. Chunk
-    chunks = chunk_document_pages(
-        cleaned_pages=cleaned_pages,
+    # 3. Combine
+    full_text, page_map = combine_pages_to_document(cleaned_pages)
+
+    # 4. Chunk
+    chunks = chunk_document(
+        full_text=full_text,
+        page_map=page_map,
         doc_name=file_name,
         doc_type=doc_type,
         chunk_size_words=CHUNK_SIZE_WORDS,
@@ -71,6 +84,7 @@ def process_one_pdf(pdf_config: dict, extract_mode: str = "blocks"):
         "doc_name": file_name,
         "doc_type": doc_type,
         "doc_title": doc_title,
+        "used_extract_mode": used_mode,
         "chunk_size_words": CHUNK_SIZE_WORDS,
         "chunk_overlap_words": CHUNK_OVERLAP_WORDS,
         "total_chunks": len(chunks),
@@ -83,7 +97,9 @@ def process_one_pdf(pdf_config: dict, extract_mode: str = "blocks"):
     return {
         "file_name": file_name,
         "doc_type": doc_type,
+        "used_extract_mode": used_mode,
         "total_pages": len(extracted_pages),
+        "total_cleaned_pages": len(cleaned_pages),
         "total_chunks": len(chunks),
         "extract_output": str(extracted_output_path),
         "clean_output": str(cleaned_output_path),
@@ -98,7 +114,7 @@ def main():
 
     for pdf_cfg in tqdm(PDF_FILES, desc="Processing PDFs"):
         try:
-            result = process_one_pdf(pdf_cfg, extract_mode="blocks")
+            result = process_one_pdf(pdf_cfg)
             summary.append({
                 "status": "success",
                 **result

@@ -2,7 +2,8 @@
   "doc_name": "peraturan_akademik.pdf",
   "doc_type": "peraturan_akademik",
   "doc_title": "Peraturan Akademik",
-  "extract_mode": "blocks",
+  "requested_extract_mode": "blocks",
+  "used_extract_mode": "primary",
   "pages": [
     {
       "page": 1,

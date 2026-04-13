@@ -2,7 +2,8 @@
   "doc_name": "peraturan_rektor.pdf",
   "doc_type": "peraturan_rektor",
   "doc_title": "Peraturan Rektor",
-  "extract_mode": "blocks",
+  "requested_extract_mode": "blocks",
+  "used_extract_mode": "primary",
   "pages": [
     {
       "page": 1,

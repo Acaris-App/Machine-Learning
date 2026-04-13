@@ -2,7 +2,8 @@
   "doc_name": "kurikulum_ti_unika.pdf",
   "doc_type": "kurikulum",
   "doc_title": "Kurikulum Program Studi Teknik Informatika",
-  "extract_mode": "blocks",
+  "requested_extract_mode": "blocks",
+  "used_extract_mode": "primary",
   "pages": [
     {
       "page": 1,

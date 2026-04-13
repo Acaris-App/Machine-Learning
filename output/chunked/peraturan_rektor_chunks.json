@@ -2,6 +2,7 @@
   "doc_name": "peraturan_rektor.pdf",
   "doc_type": "peraturan_rektor",
   "doc_title": "Peraturan Rektor",
+  "used_extract_mode": "primary",
   "chunk_size_words": 400,
   "chunk_overlap_words": 80,
   "total_chunks": 0,

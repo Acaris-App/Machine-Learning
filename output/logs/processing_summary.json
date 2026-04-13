@@ -17,8 +17,8 @@
     "doc_type": "kurikulum",
     "used_extract_mode": "blocks",
     "total_pages": 93,
-    "total_cleaned_pages": 3,
-    "total_chunks": 1,
+    "total_cleaned_pages": 78,
+    "total_chunks": 58,
     "extract_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\extracted\\kurikulum_ti_unika_raw.json",
     "clean_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\cleaned\\kurikulum_ti_unika_cleaned.json",
     "chunk_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\chunked\\kurikulum_ti_unika_chunks.json"
@@ -30,7 +30,7 @@
     "used_extract_mode": "ocr",
     "total_pages": 73,
     "total_cleaned_pages": 71,
-    "total_chunks": 113,
+    "total_chunks": 27,
     "extract_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\extracted\\peraturan_rektor_raw.json",
     "clean_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\cleaned\\peraturan_rektor_cleaned.json",
     "chunk_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\chunked\\peraturan_rektor_chunks.json"

@@ -6,6 +6,7 @@ from config import (
     CHUNK_SIZE_WORDS,
     CHUNK_OVERLAP_WORDS,
     MIN_CHUNK_WORDS,
+    REKTOR_ALLOWED_PASAL,
 )
 
 
@@ -37,10 +38,6 @@ def is_valid_chunk(text: str) -> bool:
 
 
 def trim_regulation_to_substantive_text(full_text: str) -> str:
-    """
-    Untuk peraturan akademik/rektor:
-    buang preamble sebelum Pasal 1.
-    """
     match = re.search(r"\bPasal\s+1\b", full_text, flags=re.IGNORECASE)
     if match:
         return full_text[match.start():].strip()
@@ -52,6 +49,21 @@ def split_regulation_sections(full_text: str) -> List[str]:
     parts = re.split(r"(?=\bPasal\s+\d+\b)", text, flags=re.IGNORECASE)
     parts = [p.strip() for p in parts if p.strip()]
     return parts if parts else [text]
+
+
+def filter_rektor_allowed_pasal(sections: List[str]) -> List[str]:
+    allowed = set(REKTOR_ALLOWED_PASAL)
+    kept = []
+
+    for sec in sections:
+        m = re.match(r"^\s*Pasal\s+(\d+)\b", sec, flags=re.IGNORECASE)
+        if not m:
+            continue
+        pasal_num = int(m.group(1))
+        if pasal_num in allowed:
+            kept.append(sec)
+
+    return kept
 
 
 def split_curriculum_sections(full_text: str) -> List[str]:
@@ -170,8 +182,13 @@ def chunk_document(
     if not full_text:
         return []
 
-    if doc_type in {"peraturan_akademik", "peraturan_rektor"}:
+    if doc_type == "peraturan_akademik":
         sections = split_regulation_sections(full_text)
+
+    elif doc_type == "peraturan_rektor":
+        sections = split_regulation_sections(full_text)
+        sections = filter_rektor_allowed_pasal(sections)
+
     else:
         sections = split_curriculum_sections(full_text)
 

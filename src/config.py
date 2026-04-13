@@ -34,20 +34,14 @@ PDF_FILES = [
     },
 ]
 
-# Ukuran chunk yang lebih aman untuk dokumen regulasi dan kurikulum
+# ukuran chunk
 CHUNK_SIZE_WORDS = 320
 CHUNK_OVERLAP_WORDS = 60
 MIN_CHUNK_WORDS = 40
 
 # OCR
-# Isi dengan path Tesseract yang benar di Windows kamu
-# Contoh:
-# TESSERACT_CMD = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 TESSERACT_CMD = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-
-# Kalau language data "ind" ada, pakai "ind+eng"
-# Kalau tidak ada, ganti ke "eng"
-OCR_LANG = "ind+eng"
+OCR_LANG = "eng"   # kalau ind error, pakai eng dulu
 OCR_DPI = 250
 
 CHUNK_BLACKLIST_KEYWORDS = [
@@ -70,8 +64,22 @@ FRONT_MATTER_KEYWORDS = [
     "daftar gambar",
 ]
 
+# Marker kurikulum:
+# PDF mentah memang punya front matter panjang sebelum BAB I dan ada back matter "BIODATA DOSEN PROGRAM STUDI". :contentReference[oaicite:2]{index=2}
+CURRICULUM_START_MARKER = "BAB I IDENTITAS PROGRAM STUDI"
 CURRICULUM_END_MARKERS = [
     "BIODATA DOSEN PROGRAM STUDI",
 ]
 
 MIN_MEANINGFUL_WORDS_PER_PAGE = 12
+
+# Pasal peraturan rektor yang dipakai ke knowledge base
+# berdasarkan sortir sebelumnya
+REKTOR_ALLOWED_PASAL = [
+    1, 2, 3, 4, 5,
+    10, 12, 20,
+    24, 34, 44,
+    66, 73, 75,
+    77,
+    84, 85, 86, 87, 88, 89,
+]

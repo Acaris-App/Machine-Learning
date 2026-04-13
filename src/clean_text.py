@@ -21,7 +21,7 @@ def basic_clean(text: str) -> str:
     text = text.replace("\uf0b7", "•")
     text = text.replace("\u00a0", " ")
 
-    # gabung kata yang terpotong line break
+    # gabung kata terpotong line break
     text = re.sub(r"(\w+)-\n(\w+)", r"\1\2", text)
 
     # rapikan whitespace
@@ -72,7 +72,6 @@ def is_heading_like(line: str) -> bool:
         if re.match(p, line, flags=re.IGNORECASE):
             return True
 
-    # heading uppercase pendek
     if line.isupper() and len(line.split()) <= 12:
         return True
 
@@ -80,9 +79,6 @@ def is_heading_like(line: str) -> bool:
 
 
 def normalize_lines(text: str) -> str:
-    """
-    Gabungkan baris pecah, tapi jangan satukan heading ke paragraf berikutnya.
-    """
     if not text:
         return ""
 
@@ -104,7 +100,6 @@ def normalize_lines(text: str) -> str:
 
         prev = merged[-1]
 
-        # kalau prev heading, jangan digabung
         if is_heading_like(prev):
             merged.append(line)
             continue
@@ -128,17 +123,39 @@ def is_front_matter_page(text: str) -> bool:
     return any(k in t for k in FRONT_MATTER_KEYWORDS)
 
 
+def looks_like_toc_page(text: str) -> bool:
+    """
+    Deteksi halaman daftar isi / daftar tabel yang memuat banyak entri
+    seperti BAB I ..., 2.1 ..., dst.
+    """
+    t = text.lower()
+
+    if "daftar isi" in t or "daftar tabel" in t or "daftar gambar" in t:
+        return True
+
+    # banyak pola daftar isi
+    bab_hits = len(re.findall(r"\bBAB\s+[IVXLCDM]+\b", text, flags=re.IGNORECASE))
+    sub_hits = len(re.findall(r"(?m)^\d+\.\d+\.?", text))
+    dotted_hits = len(re.findall(r"\.{3,}", text))
+
+    if bab_hits >= 3:
+        return True
+    if sub_hits >= 5:
+        return True
+    if dotted_hits >= 5:
+        return True
+
+    return False
+
+
 def page_has_true_start_marker(text: str, doc_type: str) -> bool:
     """
-    Cek start marker yang benar-benar ada sebagai heading halaman,
-    bukan sekadar tercantum di daftar isi.
+    Untuk regulasi, cek start marker sungguhan, bukan daftar isi.
     """
     lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
     first_lines = lines[:12]
-
     joined_lower = "\n".join(first_lines).lower()
 
-    # kalau masih daftar isi, jangan dianggap start marker
     if "daftar isi" in joined_lower:
         return False
 
@@ -148,13 +165,6 @@ def page_has_true_start_marker(text: str, doc_type: str) -> bool:
                 return True
             if re.match(r"^Pasal\s+1\b", line, flags=re.IGNORECASE):
                 return True
-
-    if doc_type == "kurikulum":
-        for line in first_lines:
-            if re.match(r"^BAB\s+I\b", line, flags=re.IGNORECASE):
-                # harus heading sungguhan, bukan string di daftar isi
-                if "identitas program studi" in line.lower():
-                    return True
 
     if doc_type == "peraturan_rektor":
         for line in first_lines:
@@ -167,8 +177,15 @@ def page_has_true_start_marker(text: str, doc_type: str) -> bool:
 
 
 def trim_front_matter(cleaned_pages: List[Dict], doc_type: str) -> List[Dict]:
+    """
+    Reguler untuk regulasi.
+    Kurikulum tidak dipotong di sini.
+    """
     if not cleaned_pages:
         return []
+
+    if doc_type == "kurikulum":
+        return cleaned_pages
 
     start_idx = 0
     found = False
@@ -185,24 +202,7 @@ def trim_front_matter(cleaned_pages: List[Dict], doc_type: str) -> List[Dict]:
     return cleaned_pages
 
 
-def trim_curriculum_back_matter(cleaned_pages: List[Dict]) -> List[Dict]:
-    if not cleaned_pages:
-        return []
-
-    for idx, item in enumerate(cleaned_pages):
-        t = item["cleaned_text"].upper()
-        for marker in CURRICULUM_END_MARKERS:
-            if marker.upper() in t:
-                return cleaned_pages[:idx]
-
-    return cleaned_pages
-
-
 def normalize_chapter_title(lines: List[str], start_idx: int) -> str:
-    """
-    Ambil chapter_title yang ringkas dan bersih.
-    Kalau line pertama hanya 'BAB I', gabungkan dengan line berikutnya jika cocok.
-    """
     line = re.sub(r"\.{3,}.*$", "", lines[start_idx]).strip()
 
     if re.match(r"^BAB\s+[IVXLCDM]+$", line, flags=re.IGNORECASE):
@@ -221,17 +221,17 @@ def extract_structure_metadata(text: str) -> Dict:
 
     lines = [line.strip() for line in text.splitlines() if line.strip()]
 
-    for i, line in enumerate(lines[:50]):
+    for i, line in enumerate(lines[:60]):
         if re.match(r"^BAB\s+[IVXLCDM]+", line, flags=re.IGNORECASE):
             chapter_title = normalize_chapter_title(lines, i)
             break
 
-    for line in lines[:50]:
+    for line in lines[:60]:
         if re.match(r"^Pasal\s+\d+", line, flags=re.IGNORECASE):
             section_title = line.strip()
             break
 
-    for line in lines[:50]:
+    for line in lines[:60]:
         if re.match(r"^\d+\.\d+\.?", line):
             subsection_title = line.strip()
             break
@@ -250,16 +250,79 @@ def clean_page_text(text: str, doc_type: str) -> str:
 
     lower = text.lower()
 
-    # daftar isi/tabel/gambar non-substantif
-    if (
-        ("daftar isi" in lower) or
-        ("daftar tabel" in lower) or
-        ("daftar gambar" in lower)
-    ):
-        if not page_has_true_start_marker(text, doc_type):
-            return ""
+    # untuk regulasi, daftar isi/tabel/gambar dibuang cepat
+    if doc_type != "kurikulum":
+        if (
+            ("daftar isi" in lower)
+            or ("daftar tabel" in lower)
+            or ("daftar gambar" in lower)
+        ):
+            if not page_has_true_start_marker(text, doc_type):
+                return ""
 
     return text.strip()
+
+
+def trim_curriculum_document_level(cleaned_pages: List[Dict]) -> List[Dict]:
+    """
+    Khusus kurikulum:
+    - abaikan halaman-halaman TOC/front matter
+    - mulai dari halaman yang benar-benar isi, bukan sekadar memuat string BAB I di daftar isi
+    - stop sebelum BIODATA DOSEN PROGRAM STUDI
+    """
+    if not cleaned_pages:
+        return []
+
+    started = False
+    result = []
+
+    for item in cleaned_pages:
+        text = item["cleaned_text"]
+        text_upper = text.upper()
+        lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+        first_lines = lines[:15]
+
+        # tolak semua halaman TOC/daftar isi
+        if looks_like_toc_page(text):
+            continue
+
+        # cari start yang benar:
+        # ada heading BAB I pada baris awal, bukan hanya substring biasa
+        if not started:
+            found_real_start = False
+            for idx, line in enumerate(first_lines):
+                if re.match(r"^BAB\s+I\b", line, flags=re.IGNORECASE):
+                    # kalau "BAB I" berdiri sendiri, cek line berikutnya
+                    if "IDENTITAS PROGRAM STUDI" in line.upper():
+                        found_real_start = True
+                        break
+                    if idx + 1 < len(first_lines) and "IDENTITAS PROGRAM STUDI" in first_lines[idx + 1].upper():
+                        found_real_start = True
+                        break
+
+                # fallback: kadang heading sudah menyatu
+                if re.match(r"^BAB\s+I\b.*IDENTITAS PROGRAM STUDI", line, flags=re.IGNORECASE):
+                    found_real_start = True
+                    break
+
+            if not found_real_start:
+                continue
+
+            started = True
+
+        # stop ketika masuk back matter
+        stop = False
+        for marker in CURRICULUM_END_MARKERS:
+            if marker.upper() in text_upper:
+                stop = True
+                break
+
+        if stop:
+            break
+
+        result.append(item)
+
+    return result
 
 
 def clean_document_pages(pages: List[Dict], doc_type: str) -> List[Dict]:
@@ -272,8 +335,9 @@ def clean_document_pages(pages: List[Dict], doc_type: str) -> List[Dict]:
         if not cleaned_text:
             continue
 
-        if is_front_matter_page(cleaned_text) and not page_has_true_start_marker(cleaned_text, doc_type):
-            continue
+        if doc_type != "kurikulum":
+            if is_front_matter_page(cleaned_text) and not page_has_true_start_marker(cleaned_text, doc_type):
+                continue
 
         meta = extract_structure_metadata(cleaned_text)
 
@@ -289,7 +353,7 @@ def clean_document_pages(pages: List[Dict], doc_type: str) -> List[Dict]:
     cleaned_pages = trim_front_matter(cleaned_pages, doc_type)
 
     if doc_type == "kurikulum":
-        cleaned_pages = trim_curriculum_back_matter(cleaned_pages)
+        cleaned_pages = trim_curriculum_document_level(cleaned_pages)
 
     return cleaned_pages
 

@@ -37,6 +37,10 @@ def is_valid_chunk(text: str) -> bool:
     return True
 
 
+# =========================
+# REGULATION SPLIT
+# =========================
+
 def trim_regulation_to_substantive_text(full_text: str) -> str:
     match = re.search(r"\bPasal\s+1\b", full_text, flags=re.IGNORECASE)
     if match:
@@ -66,16 +70,93 @@ def filter_rektor_allowed_pasal(sections: List[str]) -> List[str]:
     return kept
 
 
-def split_curriculum_sections(full_text: str) -> List[str]:
-    text = normalize_text(full_text)
-    parts = re.split(
-        r"(?=(?:\bBAB\s+[IVXLCDM]+\b|^\d+\.\d+\.?\s))",
-        text,
-        flags=re.IGNORECASE | re.MULTILINE
-    )
+# =========================
+# CURRICULUM SPLIT
+# =========================
+
+def split_by_bab(text: str) -> List[str]:
+    """
+    Split per BAB.
+    """
+    text = normalize_text(text)
+    parts = re.split(r"(?=\bBAB\s+[IVXLCDM]+\b)", text, flags=re.IGNORECASE)
     parts = [p.strip() for p in parts if p.strip()]
     return parts if parts else [text]
 
+
+def split_bab_by_subsection(text: str) -> List[str]:
+    """
+    Split per subbagian seperti 1.1, 2.1, 5.2, dst.
+    Kalau tidak ada, kembalikan utuh.
+    """
+    parts = re.split(r"(?=^\d+\.\d+\.?\s)", text, flags=re.MULTILINE)
+    parts = [p.strip() for p in parts if p.strip()]
+    return parts if parts else [text]
+
+
+def split_by_semester_markers(text: str) -> List[str]:
+    """
+    Split per Semester 1 / Semester 2 / dst kalau ada.
+    Ini penting banget untuk pertanyaan mahasiswa tentang distribusi semester.
+    """
+    parts = re.split(r"(?=\bSemester\s+\d+\b)", text, flags=re.IGNORECASE)
+    parts = [p.strip() for p in parts if p.strip()]
+    return parts if parts else [text]
+
+
+def curriculum_section_score(text: str) -> int:
+    """
+    Skor sederhana untuk mendeteksi section yang kaya informasi retrieval-friendly.
+    """
+    score = 0
+    t = text.lower()
+
+    if "semester" in t:
+        score += 2
+    if "mata kuliah" in t:
+        score += 2
+    if "sks" in t:
+        score += 2
+    if "cpl" in t:
+        score += 1
+    if "kurikulum" in t:
+        score += 1
+
+    return score
+
+
+def split_curriculum_sections(full_text: str) -> List[str]:
+    """
+    Strategi baru:
+    1. split per BAB
+    2. split lagi per subbagian 1.1 / 2.1 / dst
+    3. split lagi per Semester N kalau ada
+
+    Tujuan:
+    bikin chunk kurikulum jauh lebih granular dan retrieval-friendly.
+    """
+    full_text = normalize_text(full_text)
+
+    babs = split_by_bab(full_text)
+    final_sections = []
+
+    for bab_text in babs:
+        subparts = split_bab_by_subsection(bab_text)
+
+        for sub in subparts:
+            semester_parts = split_by_semester_markers(sub)
+
+            for part in semester_parts:
+                part = normalize_text(part)
+                if part:
+                    final_sections.append(part)
+
+    return final_sections if final_sections else [full_text]
+
+
+# =========================
+# CHUNKING CORE
+# =========================
 
 def sliding_window_chunk(
     text: str,
@@ -145,28 +226,56 @@ def extract_titles_from_section(section_text: str, doc_type: str) -> Dict:
     chapter_title = None
     section_title = None
     subsection_title = None
+    semester_title = None
 
-    for line in lines[:40]:
+    for line in lines[:50]:
         if re.match(r"^BAB\s+[IVXLCDM]+", line, flags=re.IGNORECASE):
             chapter_title = line
             break
 
     if doc_type in {"peraturan_akademik", "peraturan_rektor"}:
-        for line in lines[:40]:
+        for line in lines[:50]:
             if re.match(r"^Pasal\s+\d+", line, flags=re.IGNORECASE):
                 section_title = line
                 break
     else:
-        for line in lines[:40]:
+        for line in lines[:50]:
             if re.match(r"^\d+\.\d+\.?", line):
                 subsection_title = line
+                break
+
+        for line in lines[:50]:
+            if re.match(r"^Semester\s+\d+", line, flags=re.IGNORECASE):
+                semester_title = line
                 break
 
     return {
         "chapter_title": chapter_title,
         "section_title": section_title,
         "subsection_title": subsection_title,
+        "semester_title": semester_title,
     }
+
+
+def enrich_curriculum_chunk_text(chunk_text: str, titles: Dict) -> str:
+    """
+    Untuk kurikulum, prepend metadata ke text chunk supaya retrieval lebih mudah.
+    Ini penting supaya kata seperti BAB / subbagian / Semester ikut masuk ke embedding.
+    """
+    prefix_parts = []
+
+    if titles.get("chapter_title"):
+        prefix_parts.append(titles["chapter_title"])
+    if titles.get("subsection_title"):
+        prefix_parts.append(titles["subsection_title"])
+    if titles.get("semester_title"):
+        prefix_parts.append(titles["semester_title"])
+
+    if prefix_parts:
+        prefix = " | ".join(prefix_parts)
+        return f"{prefix}\n{chunk_text}"
+
+    return chunk_text
 
 
 def chunk_document(
@@ -212,6 +321,9 @@ def chunk_document(
         for local_idx, chunk_text in enumerate(chunks, start=1):
             chunk_text = normalize_text(chunk_text)
 
+            if doc_type == "kurikulum":
+                chunk_text = enrich_curriculum_chunk_text(chunk_text, titles)
+
             if not is_valid_chunk(chunk_text):
                 continue
 
@@ -221,9 +333,10 @@ def chunk_document(
                 "doc_type": doc_type,
                 "page_start": page_start,
                 "page_end": page_end,
-                "chapter_title": titles["chapter_title"],
-                "section_title": titles["section_title"],
-                "subsection_title": titles["subsection_title"],
+                "chapter_title": titles.get("chapter_title"),
+                "section_title": titles.get("section_title"),
+                "subsection_title": titles.get("subsection_title"),
+                "semester_title": titles.get("semester_title"),
                 "section_index": sec_idx,
                 "chunk_index_in_section": local_idx,
                 "word_count": word_count(chunk_text),

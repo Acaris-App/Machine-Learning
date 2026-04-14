@@ -18,7 +18,7 @@
     "used_extract_mode": "blocks",
     "total_pages": 93,
     "total_cleaned_pages": 78,
-    "total_chunks": 58,
+    "total_chunks": 59,
     "extract_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\extracted\\kurikulum_ti_unika_raw.json",
     "clean_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\cleaned\\kurikulum_ti_unika_cleaned.json",
     "chunk_output": "D:\\Cool Yeah\\SKRIPSHIT\\Machine-Learning\\output\\chunked\\kurikulum_ti_unika_chunks.json"

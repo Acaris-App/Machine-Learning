@@ -1,0 +1,137 @@
+[
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 38
+        }
+      },
+      "category": "Kalender Akademik",
+      "file_name": "Kalender-Akademik-2025-2026.pdf"
+    },
+    "pageContent": "KALENDER AKADEMIK UNIVERSITAS LAMPUNG TAHUN AKADEMIK 2025/2026\n\n## SEMESTER GANJIL\n\nKegiatan: Registrasi Mahasiswa Baru SNBP\nPeriode: 10 Juni 2025 s.d. 04 Agustus 2025\n\n---\n\nKegiatan: Registrasi Mahasiswa Baru SNBT\nPeriode: 07 Juli 2025 s.d. 08 Agustus 2025\n\n---\n\nKegiatan: Registrasi Mahasiswa Baru Simanila Gelombang I\nPeriode: 28 Februari 2025 s.d. 19 Mei 2025\n\n---\n\nKegiatan: Registrasi Mahasiswa Baru Simanila Gelombang II\nPeriode: 22 Mei 2025 s.d. 12 Juli 2025\n\n---\n\nKegiatan: Registrasi Mahasiswa Baru Pascasarjana: Pendaftaran Gelombang I & Pembayaran biaya pendaftaran\nPeriode: 10 Juni 2025 s.d. 08 Agustus 2025\n\n---\n\nKegiatan: Registrasi Mahasiswa Baru Pascasarjana: Pendaftaran Gelombang II & Pembayaran biaya pendaftaran\nPeriode: 07 Juli 2025 s.d. 08 Agustus 2025\n\n---\n\nKegiatan: Registrasi Mahasiswa Baru Pascasarjana: Pengenalan Sistem Akademik Pascasarjana (PSAP)\nTanggal: 16 Agustus 2025\n\n---"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 33,
+          "to": 78
+        }
+      },
+      "category": "Kalender Akademik",
+      "file_name": "Kalender-Akademik-2025-2026.pdf"
+    },
+    "pageContent": "---\n\nKegiatan: Registrasi Mahasiswa Baru Pascasarjana: Pengenalan Sistem Akademik Pascasarjana (PSAP)\nTanggal: 16 Agustus 2025\n\n---\n\nKegiatan: Daftar Ulang Gel. I & Pembayaran Uang Kuliah (SPP) Gel. I\nPeriode: 11 Juni s.d. 30 Juni 2025\n\n---\n\nKegiatan: Daftar Ulang Gel. II & Pembayaran Uang Kuliah (SPP) Gel. II\nPeriode: 31 Juli s.d. 8 Agustus 2025\n\n---\n\nKegiatan: Batas Akhir Permohonan Cuti Kuliah dari Fakultas (1 atau 2 semester yang akan datang)\nTanggal: 01 Agustus 2025\n\n---\n\nKegiatan: Batas Akhir Persetujuan Pindah Studi dari Fakultas\nTanggal: 01 Agustus 2025\n\n---\n\nKegiatan: Batas Akhir Permohonan Perpanjangan Masa Studi\nTanggal: 18 Juli 2025\n\n---\n\nKegiatan: Pengisian Jadwal Kuliah Semester Ganjil T.A. 2025/2026 (Online)\nPeriode: 16 Juni s.d. 04 Juli 2025\n\n---\n\nKegiatan: Batas Akhir Usulan Daftar Mahasiswa Putus Studi dari Fakultas\nTanggal: 08 Agustus 2025\n\n---\n\nKegiatan: Penetapan Keputusan Putus Studi\nPeriode: 18 Agustus s.d. 29 Agustus 2025\n\n---"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 73,
+          "to": 108
+        }
+      },
+      "category": "Kalender Akademik",
+      "file_name": "Kalender-Akademik-2025-2026.pdf"
+    },
+    "pageContent": "---\n\nKegiatan: Penetapan Keputusan Putus Studi\nPeriode: 18 Agustus s.d. 29 Agustus 2025\n\n---\n\nKegiatan: Pembayaran UKT/SPP\nPeriode: 07 Juli s.d. 08 Agustus 2025\n\n---\n\nKegiatan: Program Pengenalan Kehidupan Kampus bagi Mahasiswa Baru (PKKMB): Upacara Penerimaan Mahasiswa Baru\nPeriode: 11 s.d. 15 Agustus 2025\n\n---\n\nKegiatan: Program Pengenalan Kehidupan Kampus bagi Mahasiswa Baru (PKKMB): PKKMB Tingkat Universitas dan Fakultas\nPeriode: 11 s.d. 15 Agustus 2025\n\n---\n\nKegiatan: Program Pengenalan Kehidupan Kampus bagi Mahasiswa Baru (PKKMB): Test EPT Mahasiswa Baru\nTanggal: 18 Agustus 2025\n\n---\n\nKegiatan: Pengisian Rencana Studi & Test EPT Semester Ganjil T.A. 2025/2026: Mahasiswa Lama (Seluruh Program)\nPeriode: 04 Agustus s.d. 29 Agustus 2025\n\n---\n\nKegiatan: Pengisian Rencana Studi & Test EPT Semester Ganjil T.A. 2025/2026: Bimbingan Pengisian KRS bagi Mahasiswa Baru oleh Kaprodi dengan Pendamping dari Tim Siakad/UPT TIK Unila\nPeriode: 09 s.d. 27 September 2025\n\n---"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 108,
+          "to": 163
+        }
+      },
+      "category": "Kalender Akademik",
+      "file_name": "Kalender-Akademik-2025-2026.pdf"
+    },
+    "pageContent": "---\n\nKegiatan: Awal Perkuliahan Semester Ganjil T.A. 2025/2026\nTanggal: 08 September 2025\n\n---\n\nKegiatan: Batas Akhir Usulan Mata Kuliah Terbimbing\nTanggal: 19 September 2025\n\n---\n\nKegiatan: Wisuda Periode I: Gladi Bersih\nTanggal: 20 September 2025\n\n---\n\nKegiatan: Wisuda Periode I: Pelaksanaan Upacara Wisuda\nTanggal: 30 September 2025\n\n---\n\nKegiatan: Wisuda Periode I: Pendaftaran\nPeriode: 22 September s.d. 17 Oktober 2025\n\n---\n\nKegiatan: Pelaporan PDDikti Semester Genap T.A. 2024/2025\nPeriode: 01 s.d. 30 September 2025\n\n---\n\nKegiatan: Dies Natalis Universitas Lampung\nTanggal: 23 September 2025\n\n---\n\nKegiatan: Ujian Tengah Semester Ganjil T.A. 2025/2026\nPeriode: 06 s.d. 17 Oktober 2025\n\n---\n\nKegiatan: Wisuda Periode II: Gladi Bersih\nTanggal: 14 November 2025\n\n---\n\nKegiatan: Wisuda Periode II: Pelaksanaan Upacara Wisuda\nTanggal: 15 November 2025\n\n---\n\nKegiatan: Akhir Perkuliahan Semester Ganjil T.A. 2025/2026\nTanggal: 05 Desember 2025\n\n---"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 158,
+          "to": 205
+        }
+      },
+      "category": "Kalender Akademik",
+      "file_name": "Kalender-Akademik-2025-2026.pdf"
+    },
+    "pageContent": "---\n\nKegiatan: Akhir Perkuliahan Semester Ganjil T.A. 2025/2026\nTanggal: 05 Desember 2025\n\n---\n\nKegiatan: Ujian Akhir Semester Ganjil T.A. 2025/2026: Pelaksanaan Ujian Akhir Semester\nPeriode: 08 s.d. 19 Desember 2025\n\n---\n\nKegiatan: Ujian Akhir Semester Ganjil T.A. 2025/2026: Pengisian Nilai Mata Kuliah/Blok Reguler ke Siakadu\nPeriode: 11 Desember 2025 s.d. 05 Januari 2026\n\n---\n\nKegiatan: Wisuda Periode III: Pendaftaran\nPeriode: 17 November s.d. 19 Desember 2025\n\n---\n\nKegiatan: Wisuda Periode III: Gladi Bersih\nTanggal: 23 Januari 2026\n\n---\n\nKegiatan: Wisuda Periode III: Pelaksanaan Upacara Wisuda\nTanggal: 24 Januari 2026\n\n---\n\nKegiatan: Libur Akademik\nPeriode: 21 Desember 2025 s.d. 02 Februari 2026\n\n---\n\nKegiatan: Turun Lapang (Magang/KKN/PKL) Periode Januari s.d. Februari 2026\nPeriode: 22 Desember 2025 s.d. 30 Januari 2026\n\n---\n\nKegiatan: Batas Akhir Pengisian Nilai Seminar Usul/Hasil/Ujian Lap. Akhir, Skripsi, Tesis, Disertasi\nTanggal: 30 Januari 2026\n\n---\n\n## SEMESTER GENAP"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 198,
+          "to": 240
+        }
+      },
+      "category": "Kalender Akademik",
+      "file_name": "Kalender-Akademik-2025-2026.pdf"
+    },
+    "pageContent": "---\n\nKegiatan: Batas Akhir Pengisian Nilai Seminar Usul/Hasil/Ujian Lap. Akhir, Skripsi, Tesis, Disertasi\nTanggal: 30 Januari 2026\n\n---\n\n## SEMESTER GENAP\n\nKegiatan: Registrasi/Pembayaran SPP/UKT\nPeriode: 12 Januari s.d. 30 Januari 2026\n\n---\n\nKegiatan: Cuti, Alih Program, Pindah Studi, dan Studi Lanjut: Batas Akhir Permohonan Cuti Kuliah dari Fakultas (1 atau 2 semester yang akan datang)\nTanggal: 30 Januari 2026\n\n---\n\nKegiatan: Cuti, Alih Program, Pindah Studi, dan Studi Lanjut: Batas Akhir Persetujuan Pindah Studi dari Fakultas\nTanggal: 30 Januari 2026\n\n---\n\nKegiatan: Rekognisi Pembelajaran Lampau (RPL) S-2 Genap\nPeriode: 17 November 2025 s.d. 17 Januari 2026\n\n---\n\nKegiatan: Pengisian Jadwal Kuliah Semester Genap T.A. 2025/2026\nPeriode: 29 Desember 2025 s.d. 09 Januari 2026\n\n---\n\nKegiatan: Pengisian Rencana Studi Online Semester Genap T.A. 2025/2026\nPeriode: 12 Januari s.d. 06 Februari 2026\n\n---\n\nKegiatan: Awal Perkuliahan Semester Genap T.A. 2025/2026\nTanggal: 09 Februari 2026\n\n---"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 235,
+          "to": 290
+        }
+      },
+      "category": "Kalender Akademik",
+      "file_name": "Kalender-Akademik-2025-2026.pdf"
+    },
+    "pageContent": "---\n\nKegiatan: Awal Perkuliahan Semester Genap T.A. 2025/2026\nTanggal: 09 Februari 2026\n\n---\n\nKegiatan: Batas Akhir Usulan Mata Kuliah Terbimbing\nTanggal: 20 Februari 2026\n\n---\n\nKegiatan: Ujian Tengah Semester Genap T.A. 2025/2026\nPeriode: 06 s.d. 17 April 2026\n\n---\n\nKegiatan: Wisuda Periode IV: Pendaftaran\nPeriode: 26 Januari s.d. 27 Februari 2026\n\n---\n\nKegiatan: Wisuda Periode IV: Gladi Bersih\nTanggal: 27 Maret 2026\n\n---\n\nKegiatan: Wisuda Periode IV: Pelaksanaan Upacara Wisuda\nTanggal: 28 Maret 2026\n\n---\n\nKegiatan: Pelaporan PDDikti Semester Ganjil T.A. 2025/2026\nPeriode: 19 Januari s.d. 17 April 2026\n\n---\n\nKegiatan: Wisuda Periode V: Pendaftaran\nPeriode: 30 Maret s.d. 24 April 2026\n\n---\n\nKegiatan: Wisuda Periode V: Gladi Bersih\nTanggal: 22 Mei 2026\n\n---\n\nKegiatan: Wisuda Periode V: Pelaksanaan Upacara Wisuda\nTanggal: 23 Mei 2026\n\n---\n\nKegiatan: Akhir Perkuliahan Semester Genap T.A. 2025/2026\nTanggal: 05 Juni 2026\n\n---"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 285,
+          "to": 335
+        }
+      },
+      "category": "Kalender Akademik",
+      "file_name": "Kalender-Akademik-2025-2026.pdf"
+    },
+    "pageContent": "---\n\nKegiatan: Akhir Perkuliahan Semester Genap T.A. 2025/2026\nTanggal: 05 Juni 2026\n\n---\n\nKegiatan: Ujian Akhir Semester Genap T.A. 2025/2026: Pelaksanaan Ujian Akhir Semester\nPeriode: 08 s.d. 19 Juni 2026\n\n---\n\nKegiatan: Ujian Akhir Semester Genap T.A. 2025/2026: Pengisian Nilai Mata Kuliah/Blok Reguler ke Siakadu\nPeriode: 11 s.d. 29 Juni 2026\n\n---\n\nKegiatan: Wisuda Periode VI: Pendaftaran\nPeriode: 25 Mei s.d. 19 Juni 2026\n\n---\n\nKegiatan: Wisuda Periode VI: Gladi Bersih\nTanggal: 17 Juli 2026\n\n---\n\nKegiatan: Wisuda Periode VI: Pelaksanaan Upacara Wisuda\nTanggal: 18 Juli 2026\n\n---\n\nKegiatan: Libur Akademik\nPeriode: 29 Juni s.d. 14 Agustus 2026\n\n---\n\nKegiatan: Turun Lapang (MAGANG/KKN/PKL) Periode Juni s.d. Juli 2025\nPeriode: 22 Juni s.d. 31 Juli 2026\n\n---\n\nKegiatan: Wisuda Periode VII: Pendaftaran\nPeriode: 29 Juni s.d. 24 Juli 2026\n\n---\n\nKegiatan: Wisuda Periode VII: Gladi Bersih\nTanggal: 21 Agustus 2026\n\n---"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 327,
+          "to": 365
+        }
+      },
+      "category": "Kalender Akademik",
+      "file_name": "Kalender-Akademik-2025-2026.pdf"
+    },
+    "pageContent": "Kegiatan: Wisuda Periode VII: Pendaftaran\nPeriode: 29 Juni s.d. 24 Juli 2026\n\n---\n\nKegiatan: Wisuda Periode VII: Gladi Bersih\nTanggal: 21 Agustus 2026\n\n---\n\nKegiatan: Wisuda Periode VII: Pelaksanaan Upacara Wisuda\nTanggal: 22 Agustus 2026\n\n---\n\nKegiatan: Batas Akhir Pengisian Nilai Seminar Usul/Hasil/Ujian Lap. Akhir, Skripsi, Tesis, Disertasi\nTanggal: 07 Agustus 2026\n\n---\n\n## SEMESTER ANTARA/PENDEK\n\nKegiatan: Pendaftaran dan Pembayaran SPP/UKT\nPeriode: 22 Juni s.d. 03 Juli 2026\n\n---\n\nKegiatan: Pengisian Rencana Studi Online\nPeriode: 06 s.d. 24 Juli 2026\n\n---\n\nKegiatan: Pelaksanaan Perkuliahan Termasuk Ujian Akhir Semester\nPeriode: 29 Juni s.d. 07 Agustus 2026\n\n---\n\nKegiatan: Pengisian Nilai ke Siakad\nPeriode: 10 s.d. 14 Agustus 2026"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 12
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "## Sistem SKS, Registrasi, dan Perkuliahan\n\n### Pasal 5\n(1) Sistem pendidikan yang diselenggarakan oleh Universitas adalah Sistem Kredit Semester (SKS).\n(2) Satu SKS pada proses pembelajaran berupa kuliah, responsi, atau tutorial, mencakup:\n    a. kegiatan tatap muka 50 (lima puluh) menit per minggu per semester;\n    b. kegiatan terstruktur 60 (enam puluh) menit per minggu per semester; dan\n    c. kegiatan mandiri 60 (enam puluh) menit per minggu per semester.\n(3) Satu SKS pada proses pembelajaran berupa seminar atau bentuk pembelajaran lain yang sejenis, mencakup:\n    a. kegiatan tatap muka 100 (seratus) menit per minggu per semester; dan\n    b. kegiatan mandiri 70 (tujuh puluh) menit per minggu per semester.\n(4) Satu SKS pada proses pembelajaran berupa praktik di laboratorium, praktik di studio, praktik di bengkel, praktik lapangan, penelitian, pengabdian kepada masyarakat, dan/atau proses pembelajaran lain yang sejenis, mencakup 170 (seratus tujuh puluh) menit per minggu per semester."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 14,
+          "to": 27
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 6\n(1) Beban studi mahasiswa program sarjana dan diploma adalah sebagai berikut:\n    a. Program Sarjana: 144-160 SKS.\n    b. Program Diploma Tiga: 108-120 SKS.\n    c. Program Diploma Empat: 144-160 SKS.\n(2) Beban studi mahasiswa program magister adalah 36-42 SKS.\n(3) Beban studi mahasiswa program doktor adalah 42-50 SKS.\n(4) Beban studi sebagaimana dimaksud pada ayat (1), (2), dan (3) ditempuh dalam waktu paling lama 2 (dua) kali masa studi normal.\n\n### Pasal 22\n(1) Setiap mahasiswa wajib melakukan registrasi administrasi dan registrasi akademik pada setiap semester.\n(2) Registrasi administrasi dilakukan dengan membayar biaya pendidikan sesuai dengan ketentuan yang berlaku.\n(3) Registrasi akademik dilakukan dengan mengisi Kartu Rencana Studi (KRS) secara daring atau luring.\n(4) Mahasiswa yang tidak melakukan registrasi administrasi dan/atau registrasi akademik pada waktu yang ditentukan dinyatakan tidak aktif dan tidak berhak mengikuti kegiatan akademik pada semester tersebut."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 29,
+          "to": 39
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 24\n(1) Mahasiswa wajib mengikuti perkuliahan dan kegiatan akademik lainnya sesuai dengan jadwal yang ditetapkan.\n(2) Kehadiran mahasiswa dalam perkuliahan minimal 75% (tujuh puluh lima persen) dari total pertemuan yang diselenggarakan.\n(3) Mahasiswa yang tidak memenuhi ketentuan kehadiran sebagaimana dimaksud pada ayat (2) tidak diperkenankan mengikuti ujian akhir semester dan dinyatakan tidak lulus mata kuliah tersebut.\n(4) Pengecualian terhadap ketentuan kehadiran dapat diberikan dengan alasan yang sah dan disetujui oleh dosen pengampu mata kuliah dan Ketua Jurusan/Program Studi.\n\n### Pasal 31\n(1) Mahasiswa dapat mengambil mata kuliah lintas program studi di dalam Universitas atau di luar Universitas.\n(2) Pengambilan mata kuliah lintas program studi sebagaimana dimaksud pada ayat (1) harus mendapatkan persetujuan dari Dosen PA dan Ketua Jurusan/Program Studi.\n(3) Mata kuliah lintas program studi yang diambil harus relevan dengan capaian pembelajaran program studi mahasiswa.\n(4) Jumlah SKS mata kuliah lintas program studi yang dapat diambil di luar Universitas paling banyak 9 (sembilan) SKS."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 41,
+          "to": 46
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 34\n(1) Mahasiswa dapat mengambil mata kuliah pada semester pendek.\n(2) Semester pendek diselenggarakan untuk memperbaiki nilai atau mempercepat masa studi.\n(3) Ketentuan lebih lanjut mengenai semester pendek diatur dalam pedoman tersendiri.\n\n## Hak, Kewajiban, dan Sanksi (Etika)"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 46,
+          "to": 61
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "## Hak, Kewajiban, dan Sanksi (Etika)\n\n### Pasal 17\n(1) Setiap mahasiswa berhak:\n    a. menggunakan kebebasan akademik secara bertanggung jawab untuk menuntut dan mengkaji ilmu sesuai dengan norma dan susila yang berlaku;\n    b. memperoleh pengajaran sebaik-baiknya dan pelayanan bidang akademik sesuai dengan minat, bakat, kegemaran, dan kemampuan;\n    c. memanfaatkan fasilitas Universitas dalam rangka kelancaran proses belajar mengajar;\n    d. mendapatkan bimbingan dari dosen yang bertanggung jawab atas program studinya;\n    e. memperoleh layanan informasi yang berkaitan dengan program studi yang diikutinya serta hasil belajarnya;\n    f. menyelesaikan studi lebih awal dari waktu yang ditetapkan;\n    g. pindah program studi atau program pendidikan;\n    h. memperoleh penghargaan atas prestasi yang dicapai;\n    i. memperoleh pelayanan kesejahteraan mahasiswa;\n    j. memperoleh perlindungan hukum atas tindakan yang merugikan dirinya;\n    k. memperoleh hak-hak lain yang diatur dalam peraturan perundang-undangan.\n(2) Hak-hak sebagaimana dimaksud pada ayat (1) dapat dicabut apabila mahasiswa melanggar ketentuan yang berlaku."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 63,
+          "to": 82
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 18\n(1) Setiap mahasiswa berkewajiban:\n    a. mematuhi semua peraturan dan ketentuan yang berlaku di Universitas;\n    b. ikut memelihara sarana dan prasarana serta kebersihan, ketertiban, dan keamanan lingkungan Universitas;\n    c. menjunjung tinggi kebudayaan nasional;\n    d. menghormati dosen, tenaga kependidikan, dan sesama mahasiswa;\n    e. ikut menanggung biaya penyelenggaraan pendidikan, kecuali bagi mahasiswa yang dibebaskan dari kewajiban tersebut sesuai dengan peraturan yang berlaku;\n    f. menjaga nama baik Universitas;\n    g. mengikuti kegiatan akademik sesuai dengan jadwal yang ditetapkan;\n    h. menyelesaikan studi tepat waktu.\n\n### Pasal 19\n(1) Mahasiswa yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 18 dikenakan sanksi akademik dan/atau sanksi administratif.\n(2) Sanksi akademik dan/atau sanksi administratif sebagaimana dimaksud pada ayat (1) dapat berupa:\n    a. teguran lisan;\n    b. teguran tertulis;\n    c. skorsing;\n    d. pencabutan hak-hak mahasiswa;\n    e. pemberhentian sebagai mahasiswa.\n(3) Ketentuan lebih lanjut mengenai jenis dan tata cara pengenaan sanksi diatur dalam Peraturan Rektor."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 84,
+          "to": 105
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 50\n(1) Setiap mahasiswa wajib menjunjung tinggi etika akademik dan non-akademik.\n(2) Etika akademik meliputi:\n    a. kejujuran dalam mengerjakan tugas, ujian, dan karya ilmiah;\n    b. menghindari plagiarisme;\n    c. menghormati hak cipta;\n    d. menjaga integritas akademik.\n(3) Etika non-akademik meliputi:\n    a. sopan santun dalam berinteraksi;\n    b. menjaga nama baik almamater;\n    c. tidak melakukan tindakan kekerasan atau diskriminasi;\n    d. mematuhi norma sosial dan hukum yang berlaku.\n\n### Pasal 51\n(1) Pelanggaran etika akademik dan/atau non-akademik dapat dikenakan sanksi.\n(2) Sanksi sebagaimana dimaksud pada ayat (1) dapat berupa:\n    a. teguran lisan;\n    b. teguran tertulis;\n    c. pembatalan nilai;\n    d. skorsing;\n    e. pemberhentian sebagai mahasiswa.\n(3) Jenis dan tata cara pengenaan sanksi diatur dalam Peraturan Rektor."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 107,
+          "to": 117
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 52\n(1) Mahasiswa dilarang melakukan plagiarisme dalam bentuk apapun.\n(2) Plagiarisme sebagaimana dimaksud pada ayat (1) adalah perbuatan secara sengaja atau tidak sengaja dalam mengutip, mengambil, atau menggunakan sebagian atau seluruh karya orang lain tanpa menyebutkan sumbernya.\n(3) Mahasiswa yang terbukti melakukan plagiarisme dikenakan sanksi berat sesuai dengan ketentuan yang berlaku.\n\n### Pasal 53\n(1) Mahasiswa dilarang melakukan tindakan kekerasan, perundungan (bullying), dan/atau diskriminasi.\n(2) Tindakan kekerasan, perundungan, dan/atau diskriminasi sebagaimana dimaksud pada ayat (1) dapat berupa fisik, verbal, maupun psikologis.\n(3) Mahasiswa yang terbukti melakukan tindakan kekerasan, perundungan, dan/atau diskriminasi dikenakan sanksi berat sesuai dengan ketentuan yang berlaku.\n\n## Dosen Pembimbing Akademik (PA)"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 117,
+          "to": 130
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "## Dosen Pembimbing Akademik (PA)\n\n### Pasal 20\n(1) Setiap mahasiswa memiliki Dosen Pembimbing Akademik (PA) yang ditetapkan oleh Ketua Jurusan/Program Studi.\n(2) Dosen PA bertugas:\n    a. memberikan bimbingan dan arahan kepada mahasiswa dalam menyusun rencana studi;\n    b. memantau perkembangan studi mahasiswa;\n    c. memberikan pertimbangan dan persetujuan atas rencana studi mahasiswa;\n    d. memberikan nasihat dan motivasi kepada mahasiswa;\n    e. membantu mahasiswa dalam mengatasi masalah akademik dan non-akademik;\n    f. menandatangani Kartu Rencana Studi (KRS) dan Kartu Hasil Studi (KHS) mahasiswa.\n(3) Pergantian Dosen PA dapat dilakukan atas persetujuan Ketua Jurusan/Program Studi.\n\n## MBKM (Pembelajaran di Luar Program Studi)"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 130,
+          "to": 151
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "## MBKM (Pembelajaran di Luar Program Studi)\n\n### Pasal 26\n(1) Universitas memfasilitasi mahasiswa untuk mengikuti program Merdeka Belajar Kampus Merdeka (MBKM) di luar program studi.\n(2) Program MBKM sebagaimana dimaksud pada ayat (1) dapat berupa:\n    a. pertukaran pelajar;\n    b. magang/praktik kerja;\n    c. asistensi mengajar di satuan pendidikan;\n    d. penelitian/riset;\n    e. proyek kemanusiaan;\n    f. kegiatan wirausaha;\n    g. studi/proyek independen;\n    h. membangun desa/kuliah kerja nyata tematik.\n(3) Ketentuan lebih lanjut mengenai pelaksanaan program MBKM diatur dalam pedoman tersendiri.\n\n### Pasal 29\n(1) Konversi SKS dari kegiatan MBKM di luar program studi dilakukan berdasarkan kesetaraan capaian pembelajaran.\n(2) Jumlah SKS yang dapat dikonversi dari kegiatan MBKM paling banyak 20 (dua puluh) SKS per semester.\n(3) Proses konversi SKS sebagaimana dimaksud pada ayat (1) dan (2) dilakukan oleh program studi dengan persetujuan Dosen PA.\n(4) Hasil konversi SKS dicantumkan dalam transkrip akademik mahasiswa.\n\n## Penilaian, Mengulang, dan Cuti"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 151,
+          "to": 167
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "## Penilaian, Mengulang, dan Cuti\n\n### Pasal 41\n(1) Penilaian hasil belajar mahasiswa dinyatakan dengan huruf mutu dan angka mutu.\n(2) Huruf mutu dan angka mutu sebagaimana dimaksud pada ayat (1) adalah sebagai berikut:\n\n| Huruf Mutu | Angka Mutu | Rentang Nilai | Keterangan  |\n| :--------- | :--------- | :------------ | :---------- |\n| A          | 4.00       | 80-100        | Sangat Baik |\n| B+         | 3.50       | 75-79         | Baik Sekali |\n| B          | 3.00       | 68-74         | Baik        |\n| C+         | 2.50       | 60-67         | Cukup Baik  |\n| C          | 2.00       | 50-59         | Cukup       |\n| D          | 1.00       | 40-49         | Kurang      |\n| E          | 0.00       | < 40          | Gagal       |\n\n(3) Nilai akhir mata kuliah merupakan gabungan dari komponen penilaian yang ditetapkan oleh dosen pengampu mata kuliah."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 167,
+          "to": 183
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "(3) Nilai akhir mata kuliah merupakan gabungan dari komponen penilaian yang ditetapkan oleh dosen pengampu mata kuliah.\n\n### Pasal 44\n(1) Mahasiswa dinyatakan lulus mata kuliah apabila memperoleh nilai minimal C.\n(2) Mahasiswa yang memperoleh nilai D atau E pada suatu mata kuliah wajib mengulang mata kuliah tersebut.\n(3) Pengulangan mata kuliah dapat dilakukan pada semester berikutnya atau semester pendek.\n(4) Nilai yang digunakan untuk perhitungan Indeks Prestasi (IP) adalah nilai tertinggi dari mata kuliah yang diulang.\n\n### Pasal 45\n(1) Mahasiswa dapat mengajukan cuti akademik.\n(2) Cuti akademik dapat diberikan dengan alasan yang sah, antara lain:\n    a. sakit yang memerlukan perawatan lama;\n    b. melahirkan;\n    c. tugas negara;\n    d. alasan lain yang disetujui oleh Rektor.\n(3) Cuti akademik tidak diperhitungkan dalam masa studi.\n(4) Masa cuti akademik paling lama 2 (dua) semester berturut-turut atau tidak berturut-turut selama masa studi."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 185,
+          "to": 202
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 47\n(1) Indeks Prestasi Semester (IPS) dihitung pada setiap akhir semester.\n(2) Indeks Prestasi Kumulatif (IPK) dihitung pada setiap akhir semester dengan mengakumulasikan seluruh nilai mata kuliah yang telah ditempuh.\n(3) Rumus perhitungan IPS dan IPK adalah sebagai berikut:\n    IP = (Σ (SKS x Angka Mutu)) / Σ SKS\n(4) Ketentuan lebih lanjut mengenai perhitungan IP diatur dalam pedoman tersendiri.\n\n### Pasal 75\n(1) Mahasiswa yang telah menyelesaikan seluruh beban studi dan dinyatakan lulus berhak memperoleh ijazah dan transkrip akademik.\n(2) Ijazah dan transkrip akademik ditandatangani oleh Rektor dan Dekan.\n(3) Ijazah dan transkrip akademik diberikan kepada mahasiswa pada saat wisuda.\n\n## Tugas Akhir (Skripsi), DO, & Kelulusan\n\n### Pasal 48\n(1) Mahasiswa program sarjana wajib menyusun dan mempertahankan skripsi sebagai salah satu syarat kelulusan.\n(2) Skripsi sebagaimana dimaksud pada ayat (1) merupakan karya ilmiah yang disusun berdasarkan hasil penelitian.\n(3) Ketentuan lebih lanjut mengenai skripsi diatur dalam pedoman tersendiri."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 204,
+          "to": 214
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 66\n(1) Mahasiswa dinyatakan lulus dari program studi apabila telah memenuhi seluruh persyaratan akademik dan administrasi yang ditetapkan.\n(2) Persyaratan akademik sebagaimana dimaksud pada ayat (1) meliputi:\n    a. telah menempuh seluruh beban studi yang dipersyaratkan;\n    b. telah mencapai Indeks Prestasi Kumulatif (IPK) minimal 2.00;\n    c. telah menyelesaikan tugas akhir/skripsi/tesis/disertasi;\n    d. telah lulus ujian komprehensif (jika ada);\n    e. telah memenuhi persyaratan lain yang ditetapkan oleh program studi.\n(3) Persyaratan administrasi sebagaimana dimaksud pada ayat (1) meliputi:\n    a. telah melunasi seluruh biaya pendidikan;\n    b. telah menyerahkan semua dokumen yang dipersyaratkan."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 216,
+          "to": 225
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 67\n(1) Predikat kelulusan mahasiswa terdiri atas:\n    a. Dengan Pujian (Cum Laude);\n    b. Sangat Memuaskan;\n    c. Memuaskan.\n(2) Kriteria untuk memperoleh predikat kelulusan sebagaimana dimaksud pada ayat (1) adalah sebagai berikut:\n    a. Dengan Pujian (Cum Laude): IPK ≥ 3.51 dan masa studi tidak melebihi masa studi normal ditambah 1 (satu) semester.\n    b. Sangat Memuaskan: IPK 2.76 – 3.50.\n    c. Memuaskan: IPK 2.00 – 2.75.\n(3) Ketentuan lebih lanjut mengenai predikat kelulusan diatur dalam pedoman tersendiri."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 227,
+          "to": 243
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "### Pasal 74\n(1) Mahasiswa dapat dikenakan putus studi (Drop Out/DO) apabila:\n    a. tidak memenuhi batas waktu studi maksimal;\n    b. tidak mencapai IPK minimal yang ditetapkan pada evaluasi tertentu;\n    c. melakukan pelanggaran berat terhadap peraturan akademik dan/atau etika mahasiswa.\n(2) Batas waktu studi maksimal untuk program sarjana adalah 14 (empat belas) semester.\n(3) Batas waktu studi maksimal untuk program diploma tiga adalah 10 (sepuluh) semester.\n(4) Batas waktu studi maksimal untuk program magister adalah 8 (delapan) semester.\n(5) Batas waktu studi maksimal untuk program doktor adalah 14 (empat belas) semester.\n(6) Ketentuan lebih lanjut mengenai putus studi diatur dalam pedoman tersendiri.\n\n### Pasal 77\n(1) Wisuda adalah upacara resmi pengukuhan kelulusan mahasiswa.\n(2) Wisuda diselenggarakan secara periodik oleh Universitas.\n(3) Persyaratan dan tata cara mengikuti wisuda diatur dalam pedoman tersendiri.\n\n## Pindah Studi & Studi Lanjut (Alih Program)"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 243,
+          "to": 260
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "## Pindah Studi & Studi Lanjut (Alih Program)\n\n### Pasal 56\n(1) Mahasiswa dapat mengajukan permohonan pindah program studi di lingkungan Universitas.\n(2) Permohonan pindah program studi sebagaimana dimaksud pada ayat (1) dapat diajukan setelah menempuh paling sedikit 2 (dua) semester dan paling banyak 4 (empat) semester.\n(3) Persyaratan dan tata cara pindah program studi diatur dalam pedoman tersendiri.\n\n### Pasal 58\n(1) Mahasiswa dapat mengajukan permohonan pindah dari perguruan tinggi lain ke Universitas.\n(2) Persyaratan dan tata cara pindah dari perguruan tinggi lain diatur dalam pedoman tersendiri.\n(3) Mahasiswa pindahan dari perguruan tinggi lain wajib mengikuti matrikulasi jika diperlukan.\n\n### Pasal 60\n(1) Lulusan program diploma dapat melanjutkan studi ke program sarjana melalui jalur alih program.\n(2) Persyaratan dan tata cara alih program diatur dalam pedoman tersendiri.\n(3) Masa studi bagi mahasiswa alih program disesuaikan dengan kurikulum program studi yang dituju.\n\n## Prestasi Mahasiswa"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "loc": {
+        "lines": {
+          "from": 260,
+          "to": 269
+        }
+      },
+      "category": "Peraturan Rektor",
+      "file_name": "peraturan_rektor_2025.pdf"
+    },
+    "pageContent": "## Prestasi Mahasiswa\n\n### Pasal 90\n(1) Universitas memberikan penghargaan kepada mahasiswa yang berprestasi di bidang akademik dan/atau non-akademik.\n(2) Bentuk penghargaan sebagaimana dimaksud pada ayat (1) dapat berupa:\n    a. beasiswa;\n    b. piagam penghargaan;\n    c. kesempatan mengikuti program khusus;\n    d. bentuk penghargaan lain yang ditetapkan oleh Rektor.\n(3) Kriteria dan tata cara pemberian penghargaan diatur dalam pedoman tersendiri."
+  }
+]

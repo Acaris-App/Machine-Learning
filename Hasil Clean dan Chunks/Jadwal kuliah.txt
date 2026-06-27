@@ -1,0 +1,1780 @@
+[
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 7
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Metodologi Penelitian kelas C dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Metodologi Penelitian kelas B dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Metodologi Penelitian kelas A dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas D dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 9,
+          "to": 13
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pengetahuan Lingkungan kelas C dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas B dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas A dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 15,
+          "to": 19
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Technopreneurship kelas C dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Technopreneurship kelas B dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Technopreneurship kelas A dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 21,
+          "to": 25
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah E-Business kelas B dengan kode INF620337 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah E-Business kelas A dengan kode INF620337 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas B dengan kode INF620213 dilaksanakan pada hari Senin mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 27,
+          "to": 31
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas C dengan kode INF625114 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Aljabar Matriks kelas B dengan kode INF625111 dilaksanakan pada hari Senin mulai pukul 13.00-14.40 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Audit Teknologi Dan Informasi kelas belum tercantum kelas dengan kode INF620336 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Titin Yulianti, S.T., M.Eng., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 33,
+          "to": 37
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Aljabar Matriks kelas C dengan kode INF625111 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Struktur Data kelas A dengan kode INF625110 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari.\n\nJadwal mata kuliah Software Testing And Quality Assurance kelas B dengan kode INF620327 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 39,
+          "to": 43
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Software Testing And Quality Assurance kelas A dengan kode INF620327 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng.\n\nJadwal mata kuliah Jaringan Komputer kelas B dengan kode INF620210 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas A dengan kode INF620210 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 45,
+          "to": 49
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Virtualisasi Dan Cloud Computing kelas belum tercantum kelas dengan kode INF620331 dilaksanakan pada hari Senin mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., R. Arum SP, M.T.\n\nJadwal mata kuliah Logika kelas belum tercantum kelas dengan kode INF620111 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Titin Yulianti, S.T., M.Eng., Dr. Eng. F.X Arinto Setyawan, S.T., M.T.\n\nJadwal mata kuliah Natural Language Processing kelas belum tercantum kelas dengan kode INF620335 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 51,
+          "to": 57
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Deep Learning kelas belum tercantum kelas dengan kode INF620336 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Rio Ariestia Pradipta, S.Kom., M.T.I., Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Computer Vision kelas belum tercantum kelas dengan kode INF620328 dilaksanakan pada hari Senin mulai pukul 13.00-14.40 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Bahasa Inggris kelas belum tercantum kelas dengan kode INF620110 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Syaiful Alam, S.T., M.T., Muhammad Fikri, M.Eng.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas D dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 59,
+          "to": 65
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Rekayasa Perangkat Lunak kelas C dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas B dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas A dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas D dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 67,
+          "to": 73
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pendidikan Agama Islam kelas C dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas B dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas A dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas A dengan kode INF620213 dilaksanakan pada hari Selasa mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 75,
+          "to": 81
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Embedded System kelas B dengan kode INF620211 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Embedded System kelas A dengan kode INF620211 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Aljabar Matriks kelas A dengan kode INF625111 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah User Experience kelas B dengan kode INF620338 dilaksanakan pada hari Selasa mulai pukul 10.50-12.30 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 83,
+          "to": 89
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah User Experience kelas A dengan kode INF620338 dilaksanakan pada hari Selasa mulai pukul 15.30-17.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng.\n\nJadwal mata kuliah Aljabar Matriks kelas D dengan kode INF625111 dilaksanakan pada hari Selasa mulai pukul 15.30-17.10 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Mobile Computing kelas B dengan kode INF620325 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Mobile Computing kelas A dengan kode INF620325 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 91,
+          "to": 95
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Jaringan Komputer Lanjut kelas 2 dengan kode INF620332 dilaksanakan pada hari Selasa mulai pukul 09.10-10.50 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., R. Arum SP, M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas D dengan kode INF620210 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas C dengan kode INF620210 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 97,
+          "to": 101
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Sistem Informasi Geografis kelas A dengan kode INF620321 dilaksanakan pada hari Selasa mulai pukul 07.30-10.00 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Sistem Informasi Geografis kelas B dengan kode INF620321 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas A dengan kode INF620212 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 103,
+          "to": 107
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Teori Bahasa Dan Automata kelas B dengan kode INF620212 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas B dengan kode INF620216 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas A dengan kode INF620216 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 109,
+          "to": 113
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemrograman Berorientasi Objek kelas C dengan kode INF620213 dilaksanakan pada hari Rabu mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas D dengan kode INF620215 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas C dengan kode INF620215 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 115,
+          "to": 119
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Agile Software Development kelas B dengan kode INF620326 dilaksanakan pada hari Rabu mulai pukul 15.30-17.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Agile Software Development kelas A dengan kode INF620326 dilaksanakan pada hari Rabu mulai pukul 15.30-17.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Matematika Diskrit kelas D dengan kode INF625114 dilaksanakan pada hari Rabu mulai pukul 07.30-10.00 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 121,
+          "to": 125
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas A dengan kode INF625114 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Sistem Informasi Geografis kelas C dengan kode INF620321 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Struktur Data kelas B dengan kode INF625110 dilaksanakan pada hari Rabu mulai pukul 07.30-10.00 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 127,
+          "to": 133
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pendidikan Kewarganegaraan TI kelas A dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 07.10-08.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo, Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas B dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 07.10-08.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo, Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas C dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 08.50-10.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo Febra.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas D dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 08.50-10.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo Febra."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 135,
+          "to": 139
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Kecerdasan Buatan kelas B dengan kode INF620215 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas A dengan kode INF620215 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas D dengan kode INF620213 dilaksanakan pada hari Kamis mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 141,
+          "to": 145
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemrograman Web kelas D dengan kode INF620216 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas C dengan kode INF620216 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Virtual Reality kelas belum tercantum kelas dengan kode INF620344 dilaksanakan pada hari Kamis mulai pukul 15.00-17.10 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 147,
+          "to": 153
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas B dengan kode INF625114 dilaksanakan pada hari Kamis mulai pukul 10.00-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Augmented Reality kelas A dengan kode INF620339 dilaksanakan pada hari Kamis mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Augmented Reality kelas B dengan kode INF620339 dilaksanakan pada hari Kamis mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Struktur Data kelas D dengan kode INF625110 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 155,
+          "to": 161
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Embedded System kelas D dengan kode INF620211 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Embedded System kelas C dengan kode INF620211 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas D dengan kode INF620212 dilaksanakan pada hari Jumat mulai pukul 13.30-16.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas C dengan kode INF620212 dilaksanakan pada hari Jumat mulai pukul 13.30-16.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 163,
+          "to": 169
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Big Data kelas belum tercantum kelas dengan kode INF620333 dilaksanakan pada hari Jumat mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Struktur Data kelas C dengan kode INF625110 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari.\n\nJadwal mata kuliah Sistem Penunjang Keputusan kelas belum tercantum kelas dengan kode INF620334 dilaksanakan pada hari Jumat mulai pukul 13.30-15.10 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom.\n\nJadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas C dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 171,
+          "to": 177
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas B dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T.\n\nJadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas A dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T.\n\nJadwal mata kuliah Praktikum Embedded System kelas C dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T.\n\nJadwal mata kuliah Praktikum Embedded System kelas B dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 179,
+          "to": 185
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Embedded System kelas A dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas C dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas B dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas A dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 187,
+          "to": 193
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Struktur Data kelas C dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Struktur Data kelas B dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Struktur Data kelas A dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas A dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 195,
+          "to": 201
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas B dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM.\n\nJadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas C dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM.\n\nJadwal mata kuliah Pemrograman Fungsional kelas belum tercantum kelas dengan kode INF620345 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Sistem Kendali kelas belum tercantum kelas dengan kode INF620330 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang Lab kendali PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 1,
+      "loc": {
+        "lines": {
+          "from": 203,
+          "to": 203
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemodelan Simulasi kelas belum tercantum kelas dengan kode INF620329 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 2,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 1
+        }
+      }
+    },
+    "pageContent": "EjQKMgEMOdbHkPMgmcgXjYELgo9wmh8MAEOjQGMkr5jhH7tFf5+mhCFyhZ83VS8fA8EOYdeJ"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 3,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 1
+        }
+      }
+    },
+    "pageContent": "model"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 4,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 1
+        }
+      }
+    },
+    "pageContent": "STOP"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 7
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Metodologi Penelitian kelas C dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Metodologi Penelitian kelas B dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Metodologi Penelitian kelas A dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas D dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 9,
+          "to": 13
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pengetahuan Lingkungan kelas C dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas B dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas A dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 15,
+          "to": 19
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Technopreneurship kelas C dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Technopreneurship kelas B dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Technopreneurship kelas A dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 21,
+          "to": 25
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah E-Business kelas B dengan kode INF620337 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah E-Business kelas A dengan kode INF620337 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas B dengan kode INF620213 dilaksanakan pada hari Senin mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 27,
+          "to": 31
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas C dengan kode INF625114 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Aljabar Matriks kelas B dengan kode INF625111 dilaksanakan pada hari Senin mulai pukul 13.00-14.40 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Audit Teknologi Dan Informasi kelas belum tercantum kelas dengan kode INF620336 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Titin Yulianti, S.T., M.Eng., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 33,
+          "to": 37
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Aljabar Matriks kelas C dengan kode INF625111 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Struktur Data kelas A dengan kode INF625110 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari.\n\nJadwal mata kuliah Software Testing And Quality Assurance kelas B dengan kode INF620327 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 39,
+          "to": 43
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Software Testing And Quality Assurance kelas A dengan kode INF620327 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng.\n\nJadwal mata kuliah Jaringan Komputer kelas B dengan kode INF620210 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas A dengan kode INF620210 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 45,
+          "to": 49
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Virtualisasi Dan Cloud Computing kelas belum tercantum kelas dengan kode INF620331 dilaksanakan pada hari Senin mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., R. Arum SP, M.T.\n\nJadwal mata kuliah Logika kelas belum tercantum kelas dengan kode INF620111 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Titin Yulianti, S.T., M.Eng., Dr. Eng. F.X Arinto Setyawan, S.T., M.T.\n\nJadwal mata kuliah Natural Language Processing kelas belum tercantum kelas dengan kode INF620335 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 51,
+          "to": 57
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Deep Learning kelas belum tercantum kelas dengan kode INF620336 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Rio Ariestia Pradipta, S.Kom., M.T.I., Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Computer Vision kelas belum tercantum kelas dengan kode INF620328 dilaksanakan pada hari Senin mulai pukul 13.00-14.40 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Bahasa Inggris kelas belum tercantum kelas dengan kode INF620110 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Syaiful Alam, S.T., M.T., Muhammad Fikri, M.Eng.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas D dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 59,
+          "to": 65
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Rekayasa Perangkat Lunak kelas C dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas B dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas A dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas D dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 67,
+          "to": 73
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pendidikan Agama Islam kelas C dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas B dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas A dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas A dengan kode INF620213 dilaksanakan pada hari Selasa mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 75,
+          "to": 81
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Embedded System kelas B dengan kode INF620211 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Embedded System kelas A dengan kode INF620211 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Aljabar Matriks kelas A dengan kode INF625111 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah User Experience kelas B dengan kode INF620338 dilaksanakan pada hari Selasa mulai pukul 10.50-12.30 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 83,
+          "to": 89
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah User Experience kelas A dengan kode INF620338 dilaksanakan pada hari Selasa mulai pukul 15.30-17.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng.\n\nJadwal mata kuliah Aljabar Matriks kelas D dengan kode INF625111 dilaksanakan pada hari Selasa mulai pukul 15.30-17.10 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Mobile Computing kelas B dengan kode INF620325 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Mobile Computing kelas A dengan kode INF620325 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 91,
+          "to": 95
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Jaringan Komputer Lanjut kelas 2 dengan kode INF620332 dilaksanakan pada hari Selasa mulai pukul 09.10-10.50 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., R. Arum SP, M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas D dengan kode INF620210 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas C dengan kode INF620210 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 97,
+          "to": 101
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Sistem Informasi Geografis kelas A dengan kode INF620321 dilaksanakan pada hari Selasa mulai pukul 07.30-10.00 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Sistem Informasi Geografis kelas B dengan kode INF620321 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas A dengan kode INF620212 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 103,
+          "to": 107
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Teori Bahasa Dan Automata kelas B dengan kode INF620212 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas B dengan kode INF620216 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas A dengan kode INF620216 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 109,
+          "to": 113
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemrograman Berorientasi Objek kelas C dengan kode INF620213 dilaksanakan pada hari Rabu mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas D dengan kode INF620215 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas C dengan kode INF620215 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 115,
+          "to": 119
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Agile Software Development kelas B dengan kode INF620326 dilaksanakan pada hari Rabu mulai pukul 15.30-17.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Agile Software Development kelas A dengan kode INF620326 dilaksanakan pada hari Rabu mulai pukul 15.30-17.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Matematika Diskrit kelas D dengan kode INF625114 dilaksanakan pada hari Rabu mulai pukul 07.30-10.00 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 121,
+          "to": 125
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas A dengan kode INF625114 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Sistem Informasi Geografis kelas C dengan kode INF620321 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Struktur Data kelas B dengan kode INF625110 dilaksanakan pada hari Rabu mulai pukul 07.30-10.00 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 127,
+          "to": 133
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pendidikan Kewarganegaraan TI kelas A dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 07.10-08.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo, Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas B dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 07.10-08.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo, Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas C dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 08.50-10.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo Febra.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas D dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 08.50-10.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo Febra."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 135,
+          "to": 139
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Kecerdasan Buatan kelas B dengan kode INF620215 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas A dengan kode INF620215 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas D dengan kode INF620213 dilaksanakan pada hari Kamis mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 141,
+          "to": 145
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemrograman Web kelas D dengan kode INF620216 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas C dengan kode INF620216 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Virtual Reality kelas belum tercantum kelas dengan kode INF620344 dilaksanakan pada hari Kamis mulai pukul 15.00-17.10 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 147,
+          "to": 153
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas B dengan kode INF625114 dilaksanakan pada hari Kamis mulai pukul 10.00-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Augmented Reality kelas A dengan kode INF620339 dilaksanakan pada hari Kamis mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Augmented Reality kelas B dengan kode INF620339 dilaksanakan pada hari Kamis mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Struktur Data kelas D dengan kode INF625110 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 155,
+          "to": 161
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Embedded System kelas D dengan kode INF620211 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Embedded System kelas C dengan kode INF620211 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas D dengan kode INF620212 dilaksanakan pada hari Jumat mulai pukul 13.30-16.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas C dengan kode INF620212 dilaksanakan pada hari Jumat mulai pukul 13.30-16.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 163,
+          "to": 169
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Big Data kelas belum tercantum kelas dengan kode INF620333 dilaksanakan pada hari Jumat mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Struktur Data kelas C dengan kode INF625110 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari.\n\nJadwal mata kuliah Sistem Penunjang Keputusan kelas belum tercantum kelas dengan kode INF620334 dilaksanakan pada hari Jumat mulai pukul 13.30-15.10 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom.\n\nJadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas C dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 171,
+          "to": 177
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas B dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T.\n\nJadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas A dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T.\n\nJadwal mata kuliah Praktikum Embedded System kelas C dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T.\n\nJadwal mata kuliah Praktikum Embedded System kelas B dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 179,
+          "to": 185
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Embedded System kelas A dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas C dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas B dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas A dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 187,
+          "to": 193
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Struktur Data kelas C dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Struktur Data kelas B dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Struktur Data kelas A dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas A dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 195,
+          "to": 201
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas B dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM.\n\nJadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas C dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM.\n\nJadwal mata kuliah Pemrograman Fungsional kelas belum tercantum kelas dengan kode INF620345 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Sistem Kendali kelas belum tercantum kelas dengan kode INF620330 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang Lab kendali PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 5,
+      "loc": {
+        "lines": {
+          "from": 203,
+          "to": 203
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemodelan Simulasi kelas belum tercantum kelas dengan kode INF620329 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 6,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 1
+        }
+      }
+    },
+    "pageContent": "EjQKMgEMOdbHkPMgmcgXjYELgo9wmh8MAEOjQGMkr5jhH7tFf5+mhCFyhZ83VS8fA8EOYdeJ"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 7,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 1
+        }
+      }
+    },
+    "pageContent": "model"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 7
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Metodologi Penelitian kelas C dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Metodologi Penelitian kelas B dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Metodologi Penelitian kelas A dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas D dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 9,
+          "to": 13
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pengetahuan Lingkungan kelas C dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas B dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas A dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 15,
+          "to": 19
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Technopreneurship kelas C dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Technopreneurship kelas B dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Technopreneurship kelas A dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 21,
+          "to": 25
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah E-Business kelas B dengan kode INF620337 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah E-Business kelas A dengan kode INF620337 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas B dengan kode INF620213 dilaksanakan pada hari Senin mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 27,
+          "to": 31
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas C dengan kode INF625114 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Aljabar Matriks kelas B dengan kode INF625111 dilaksanakan pada hari Senin mulai pukul 13.00-14.40 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Audit Teknologi Dan Informasi kelas belum tercantum kelas dengan kode INF620336 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Titin Yulianti, S.T., M.Eng., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 33,
+          "to": 37
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Aljabar Matriks kelas C dengan kode INF625111 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Struktur Data kelas A dengan kode INF625110 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari.\n\nJadwal mata kuliah Software Testing And Quality Assurance kelas B dengan kode INF620327 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 39,
+          "to": 43
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Software Testing And Quality Assurance kelas A dengan kode INF620327 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng.\n\nJadwal mata kuliah Jaringan Komputer kelas B dengan kode INF620210 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas A dengan kode INF620210 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 45,
+          "to": 49
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Virtualisasi Dan Cloud Computing kelas belum tercantum kelas dengan kode INF620331 dilaksanakan pada hari Senin mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., R. Arum SP, M.T.\n\nJadwal mata kuliah Logika kelas belum tercantum kelas dengan kode INF620111 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Titin Yulianti, S.T., M.Eng., Dr. Eng. F.X Arinto Setyawan, S.T., M.T.\n\nJadwal mata kuliah Natural Language Processing kelas belum tercantum kelas dengan kode INF620335 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 51,
+          "to": 57
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Deep Learning kelas belum tercantum kelas dengan kode INF620336 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Rio Ariestia Pradipta, S.Kom., M.T.I., Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Computer Vision kelas belum tercantum kelas dengan kode INF620328 dilaksanakan pada hari Senin mulai pukul 13.00-14.40 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Bahasa Inggris kelas belum tercantum kelas dengan kode INF620110 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Syaiful Alam, S.T., M.T., Muhammad Fikri, M.Eng.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas D dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 59,
+          "to": 65
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Rekayasa Perangkat Lunak kelas C dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas B dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas A dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas D dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 67,
+          "to": 73
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pendidikan Agama Islam kelas C dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas B dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas A dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas A dengan kode INF620213 dilaksanakan pada hari Selasa mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 75,
+          "to": 81
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Embedded System kelas B dengan kode INF620211 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Embedded System kelas A dengan kode INF620211 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Aljabar Matriks kelas A dengan kode INF625111 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah User Experience kelas B dengan kode INF620338 dilaksanakan pada hari Selasa mulai pukul 10.50-12.30 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 83,
+          "to": 89
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah User Experience kelas A dengan kode INF620338 dilaksanakan pada hari Selasa mulai pukul 15.30-17.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng.\n\nJadwal mata kuliah Aljabar Matriks kelas D dengan kode INF625111 dilaksanakan pada hari Selasa mulai pukul 15.30-17.10 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Mobile Computing kelas B dengan kode INF620325 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Mobile Computing kelas A dengan kode INF620325 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 91,
+          "to": 95
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Jaringan Komputer Lanjut kelas 2 dengan kode INF620332 dilaksanakan pada hari Selasa mulai pukul 09.10-10.50 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., R. Arum SP, M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas D dengan kode INF620210 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas C dengan kode INF620210 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 97,
+          "to": 101
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Sistem Informasi Geografis kelas A dengan kode INF620321 dilaksanakan pada hari Selasa mulai pukul 07.30-10.00 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Sistem Informasi Geografis kelas B dengan kode INF620321 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas A dengan kode INF620212 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 103,
+          "to": 107
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Teori Bahasa Dan Automata kelas B dengan kode INF620212 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas B dengan kode INF620216 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas A dengan kode INF620216 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 109,
+          "to": 113
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemrograman Berorientasi Objek kelas C dengan kode INF620213 dilaksanakan pada hari Rabu mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas D dengan kode INF620215 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas C dengan kode INF620215 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 115,
+          "to": 119
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Agile Software Development kelas B dengan kode INF620326 dilaksanakan pada hari Rabu mulai pukul 15.30-17.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Agile Software Development kelas A dengan kode INF620326 dilaksanakan pada hari Rabu mulai pukul 15.30-17.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Matematika Diskrit kelas D dengan kode INF625114 dilaksanakan pada hari Rabu mulai pukul 07.30-10.00 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 121,
+          "to": 125
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas A dengan kode INF625114 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Sistem Informasi Geografis kelas C dengan kode INF620321 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Struktur Data kelas B dengan kode INF625110 dilaksanakan pada hari Rabu mulai pukul 07.30-10.00 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 127,
+          "to": 133
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pendidikan Kewarganegaraan TI kelas A dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 07.10-08.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo, Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas B dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 07.10-08.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo, Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas C dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 08.50-10.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo Febra.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas D dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 08.50-10.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo Febra."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 135,
+          "to": 139
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Kecerdasan Buatan kelas B dengan kode INF620215 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas A dengan kode INF620215 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas D dengan kode INF620213 dilaksanakan pada hari Kamis mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 141,
+          "to": 145
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemrograman Web kelas D dengan kode INF620216 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas C dengan kode INF620216 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Virtual Reality kelas belum tercantum kelas dengan kode INF620344 dilaksanakan pada hari Kamis mulai pukul 15.00-17.10 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 147,
+          "to": 153
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas B dengan kode INF625114 dilaksanakan pada hari Kamis mulai pukul 10.00-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Augmented Reality kelas A dengan kode INF620339 dilaksanakan pada hari Kamis mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Augmented Reality kelas B dengan kode INF620339 dilaksanakan pada hari Kamis mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Struktur Data kelas D dengan kode INF625110 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 155,
+          "to": 161
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Embedded System kelas D dengan kode INF620211 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Embedded System kelas C dengan kode INF620211 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas D dengan kode INF620212 dilaksanakan pada hari Jumat mulai pukul 13.30-16.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas C dengan kode INF620212 dilaksanakan pada hari Jumat mulai pukul 13.30-16.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 163,
+          "to": 169
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Big Data kelas belum tercantum kelas dengan kode INF620333 dilaksanakan pada hari Jumat mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Struktur Data kelas C dengan kode INF625110 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari.\n\nJadwal mata kuliah Sistem Penunjang Keputusan kelas belum tercantum kelas dengan kode INF620334 dilaksanakan pada hari Jumat mulai pukul 13.30-15.10 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom.\n\nJadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas C dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 171,
+          "to": 177
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas B dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T.\n\nJadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas A dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T.\n\nJadwal mata kuliah Praktikum Embedded System kelas C dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T.\n\nJadwal mata kuliah Praktikum Embedded System kelas B dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 179,
+          "to": 185
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Embedded System kelas A dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas C dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas B dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas A dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 187,
+          "to": 193
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Struktur Data kelas C dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Struktur Data kelas B dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Struktur Data kelas A dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas A dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 195,
+          "to": 201
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas B dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM.\n\nJadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas C dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM.\n\nJadwal mata kuliah Pemrograman Fungsional kelas belum tercantum kelas dengan kode INF620345 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Sistem Kendali kelas belum tercantum kelas dengan kode INF620330 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang Lab kendali PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 8,
+      "loc": {
+        "lines": {
+          "from": 203,
+          "to": 203
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemodelan Simulasi kelas belum tercantum kelas dengan kode INF620329 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 9,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 1
+        }
+      }
+    },
+    "pageContent": "EjQKMgEMOdbHkPMgmcgXjYELgo9wmh8MAEOjQGMkr5jhH7tFf5+mhCFyhZ83VS8fA8EOYdeJ"
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 7
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Metodologi Penelitian kelas C dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Metodologi Penelitian kelas B dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Metodologi Penelitian kelas A dengan kode INF620320 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas D dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 9,
+          "to": 13
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pengetahuan Lingkungan kelas C dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas B dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Pengetahuan Lingkungan kelas A dengan kode INF625109 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 15,
+          "to": 19
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Technopreneurship kelas C dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Technopreneurship kelas B dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Technopreneurship kelas A dengan kode INF620324 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Herri Gusmedi, S.T., M.T., Rizkima Akbar Setiawan, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 21,
+          "to": 25
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah E-Business kelas B dengan kode INF620337 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah E-Business kelas A dengan kode INF620337 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas B dengan kode INF620213 dilaksanakan pada hari Senin mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 27,
+          "to": 31
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas C dengan kode INF625114 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Aljabar Matriks kelas B dengan kode INF625111 dilaksanakan pada hari Senin mulai pukul 13.00-14.40 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Audit Teknologi Dan Informasi kelas belum tercantum kelas dengan kode INF620336 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Titin Yulianti, S.T., M.Eng., R. Arum SP, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 33,
+          "to": 37
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Aljabar Matriks kelas C dengan kode INF625111 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Struktur Data kelas A dengan kode INF625110 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari.\n\nJadwal mata kuliah Software Testing And Quality Assurance kelas B dengan kode INF620327 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 39,
+          "to": 43
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Software Testing And Quality Assurance kelas A dengan kode INF620327 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng.\n\nJadwal mata kuliah Jaringan Komputer kelas B dengan kode INF620210 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas A dengan kode INF620210 dilaksanakan pada hari Senin mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 45,
+          "to": 49
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Virtualisasi Dan Cloud Computing kelas belum tercantum kelas dengan kode INF620331 dilaksanakan pada hari Senin mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., R. Arum SP, M.T.\n\nJadwal mata kuliah Logika kelas belum tercantum kelas dengan kode INF620111 dilaksanakan pada hari Senin mulai pukul 07.30-09.10 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Titin Yulianti, S.T., M.Eng., Dr. Eng. F.X Arinto Setyawan, S.T., M.T.\n\nJadwal mata kuliah Natural Language Processing kelas belum tercantum kelas dengan kode INF620335 dilaksanakan pada hari Senin mulai pukul 09.10-10.50 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 51,
+          "to": 57
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Deep Learning kelas belum tercantum kelas dengan kode INF620336 dilaksanakan pada hari Senin mulai pukul 10.50-12.30 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Rio Ariestia Pradipta, S.Kom., M.T.I., Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Computer Vision kelas belum tercantum kelas dengan kode INF620328 dilaksanakan pada hari Senin mulai pukul 13.00-14.40 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Bahasa Inggris kelas belum tercantum kelas dengan kode INF620110 dilaksanakan pada hari Senin mulai pukul 14.40-17.10 di ruang Baja 3 PSTI. Mata kuliah ini diampu oleh dosen: Syaiful Alam, S.T., M.T., Muhammad Fikri, M.Eng.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas D dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 59,
+          "to": 65
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Rekayasa Perangkat Lunak kelas C dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas B dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Rekayasa Perangkat Lunak kelas A dengan kode INF625115 dilaksanakan pada hari Selasa mulai pukul 09.30-12.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T., Nurrahma, M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas D dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 67,
+          "to": 73
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pendidikan Agama Islam kelas C dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas B dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pendidikan Agama Islam kelas A dengan kode UNI625101 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Muhisom Atik Rusdiani, Yessi Mulyani, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas A dengan kode INF620213 dilaksanakan pada hari Selasa mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 75,
+          "to": 81
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Embedded System kelas B dengan kode INF620211 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Embedded System kelas A dengan kode INF620211 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Aljabar Matriks kelas A dengan kode INF625111 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah User Experience kelas B dengan kode INF620338 dilaksanakan pada hari Selasa mulai pukul 10.50-12.30 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 83,
+          "to": 89
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah User Experience kelas A dengan kode INF620338 dilaksanakan pada hari Selasa mulai pukul 15.30-17.10 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Mahendra Pratama, S.T., M.Eng.\n\nJadwal mata kuliah Aljabar Matriks kelas D dengan kode INF625111 dilaksanakan pada hari Selasa mulai pukul 15.30-17.10 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I, Rio Ariestia Pradipta, S.Kom., M.T.I.\n\nJadwal mata kuliah Mobile Computing kelas B dengan kode INF620325 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Mobile Computing kelas A dengan kode INF620325 dilaksanakan pada hari Selasa mulai pukul 07.30-09.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 91,
+          "to": 95
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Jaringan Komputer Lanjut kelas 2 dengan kode INF620332 dilaksanakan pada hari Selasa mulai pukul 09.10-10.50 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., R. Arum SP, M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas D dengan kode INF620210 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T.\n\nJadwal mata kuliah Jaringan Komputer kelas C dengan kode INF620210 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM., Muhammad Nur Khawarizmi, S.Si., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 97,
+          "to": 101
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Sistem Informasi Geografis kelas A dengan kode INF620321 dilaksanakan pada hari Selasa mulai pukul 07.30-10.00 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Sistem Informasi Geografis kelas B dengan kode INF620321 dilaksanakan pada hari Selasa mulai pukul 13.00-15.30 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas A dengan kode INF620212 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 103,
+          "to": 107
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Teori Bahasa Dan Automata kelas B dengan kode INF620212 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas B dengan kode INF620216 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas A dengan kode INF620216 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 109,
+          "to": 113
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemrograman Berorientasi Objek kelas C dengan kode INF620213 dilaksanakan pada hari Rabu mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas D dengan kode INF620215 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas C dengan kode INF620215 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 115,
+          "to": 119
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Agile Software Development kelas B dengan kode INF620326 dilaksanakan pada hari Rabu mulai pukul 15.30-17.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Agile Software Development kelas A dengan kode INF620326 dilaksanakan pada hari Rabu mulai pukul 15.30-17.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Sony Ferbangkara, S.T., M.T.\n\nJadwal mata kuliah Matematika Diskrit kelas D dengan kode INF625114 dilaksanakan pada hari Rabu mulai pukul 07.30-10.00 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 121,
+          "to": 125
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas A dengan kode INF625114 dilaksanakan pada hari Rabu mulai pukul 10.00-12.30 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Sistem Informasi Geografis kelas C dengan kode INF620321 dilaksanakan pada hari Rabu mulai pukul 13.00-15.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T., R. Arum SP, M.T.\n\nJadwal mata kuliah Struktur Data kelas B dengan kode INF625110 dilaksanakan pada hari Rabu mulai pukul 07.30-10.00 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 127,
+          "to": 133
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pendidikan Kewarganegaraan TI kelas A dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 07.10-08.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo, Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas B dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 07.10-08.50 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo, Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas C dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 08.50-10.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo Febra.\n\nJadwal mata kuliah Pendidikan Kewarganegaraan TI kelas D dengan kode UNI625108 dilaksanakan pada hari Kamis mulai pukul 08.50-10.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Susilo Febra."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 135,
+          "to": 139
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Kecerdasan Buatan kelas B dengan kode INF620215 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Kecerdasan Buatan kelas A dengan kode INF620215 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Rio Ariestia Pradipta, S.Kom., M.T.I., Nurrahma, M.T.\n\nJadwal mata kuliah Pemrograman Berorientasi Objek kelas D dengan kode INF620213 dilaksanakan pada hari Kamis mulai pukul 09.10-12.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Wahyu Eko S., S.T., M.Sc., Dr. Eng. Helmy Fitriawan, S.T., M.Sc., Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 141,
+          "to": 145
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemrograman Web kelas D dengan kode INF620216 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Pemrograman Web kelas C dengan kode INF620216 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Mahendra Pratama, S.T., M.Eng., Muhammad Nur Khawarizmi, S.Si., M.T., Rizkima Akbar Setiawan, S.T., M.T.\n\nJadwal mata kuliah Virtual Reality kelas belum tercantum kelas dengan kode INF620344 dilaksanakan pada hari Kamis mulai pukul 15.00-17.10 di ruang H19 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, Sony Ferbangkara, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 147,
+          "to": 153
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Matematika Diskrit kelas B dengan kode INF625114 dilaksanakan pada hari Kamis mulai pukul 10.00-12.30 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Diah Permata, S.T., M.T., Misfa Susanto, S.T., M.Sc., Ph.D., Nadia Julian Putri, S.T., M.T.\n\nJadwal mata kuliah Augmented Reality kelas A dengan kode INF620339 dilaksanakan pada hari Kamis mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Augmented Reality kelas B dengan kode INF620339 dilaksanakan pada hari Kamis mulai pukul 15.30-17.10 di ruang Mektan 3.1 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Struktur Data kelas D dengan kode INF625110 dilaksanakan pada hari Kamis mulai pukul 13.00-15.30 di ruang Mektan 3.2 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 155,
+          "to": 161
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Embedded System kelas D dengan kode INF620211 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Embedded System kelas C dengan kode INF620211 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T., Ir. Titin Yulianti, S.T., M.Eng.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas D dengan kode INF620212 dilaksanakan pada hari Jumat mulai pukul 13.30-16.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T.\n\nJadwal mata kuliah Teori Bahasa Dan Automata kelas C dengan kode INF620212 dilaksanakan pada hari Jumat mulai pukul 13.30-16.00 di ruang H5 PSTI. Mata kuliah ini diampu oleh dosen: Yessi Mulyani, S.T., M.T., Ir. Trisya Septiana, ST., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 163,
+          "to": 169
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Big Data kelas belum tercantum kelas dengan kode INF620333 dilaksanakan pada hari Jumat mulai pukul 07.30-09.10 di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Trisya Septiana, ST., M.T., Deny Budiyanto, S.Kom, M.T.\n\nJadwal mata kuliah Struktur Data kelas C dengan kode INF625110 dilaksanakan pada hari Jumat mulai pukul 07.30-10.00 di ruang H18 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom, Bambang Sundari.\n\nJadwal mata kuliah Sistem Penunjang Keputusan kelas belum tercantum kelas dengan kode INF620334 dilaksanakan pada hari Jumat mulai pukul 13.30-15.10 di ruang H20 PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Ir. Resty Annisa, S.ST., M.Kom.\n\nJadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas C dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 171,
+          "to": 177
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas B dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T.\n\nJadwal mata kuliah Praktikum Rekayasa Perangkat Lunak kelas A dengan kode INF625116 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Dr. Eng. Mardiana, S.T., M.T.\n\nJadwal mata kuliah Praktikum Embedded System kelas C dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T.\n\nJadwal mata kuliah Praktikum Embedded System kelas B dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 179,
+          "to": 185
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Embedded System kelas A dengan kode INF620214 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Digital PSTI. Mata kuliah ini diampu oleh dosen: Ir. M. Komarudin, M.T.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas C dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas B dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I.\n\nJadwal mata kuliah Praktikum Sistem Basis Data kelas A dengan kode INF620217 dilaksanakan pada hari Sabtu mulai pukul 07.00-09.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Puput Budi Wintoro, S. Kom, M.T.I."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 187,
+          "to": 193
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Struktur Data kelas C dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Struktur Data kelas B dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Struktur Data kelas A dengan kode INF625113 dilaksanakan pada hari Sabtu mulai pukul 09.50-12.40 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T.\n\nJadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas A dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 195,
+          "to": 201
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas B dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM.\n\nJadwal mata kuliah Praktikum Keamanan Sistem Informasi kelas C dengan kode INF620322 dilaksanakan pada hari Sabtu mulai pukul 13.00-15.50 di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Ir. Gigih Forda Nama, S.T. M.T.I, IPM.\n\nJadwal mata kuliah Pemrograman Fungsional kelas belum tercantum kelas dengan kode INF620345 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang H17 PSTI. Mata kuliah ini diampu oleh dosen: Ir. Resty Annisa, S.ST., M.Kom, R. Arum SP, M.T.\n\nJadwal mata kuliah Sistem Kendali kelas belum tercantum kelas dengan kode INF620330 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang Lab kendali PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 10,
+      "loc": {
+        "lines": {
+          "from": 203,
+          "to": 203
+        }
+      }
+    },
+    "pageContent": "Jadwal mata kuliah Pemodelan Simulasi kelas belum tercantum kelas dengan kode INF620329 dilaksanakan pada waktu dan hari yang belum ditentukan di ruang Lab Komputer PSTI. Mata kuliah ini diampu oleh dosen: Mona A.M. Batubara, M.T., Deny Budiyanto, S.Kom, M.T."
+  },
+  {
+    "metadata": {
+      "source": "blob",
+      "blobType": "application/json",
+      "line": 11,
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 1
+        }
+      }
+    },
+    "pageContent": "EjQKMgEMOdbHkPMgmcgXjYELgo9wmh8MAEOjQGMkr5jhH7tFf5+mhCFyhZ83VS8fA8EOYdeJ"
+  }
+]

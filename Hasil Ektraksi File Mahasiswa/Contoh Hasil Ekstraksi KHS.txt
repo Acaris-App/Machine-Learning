@@ -1,0 +1,15 @@
+[
+  {
+    "content": {
+      "parts": [
+        {
+          "text": "{\n  \"jenis_dokumen\": \"KHS\",\n  \"identitas_mahasiswa\": {\n    \"nama\": \"RADHITYA AGRAYASA RHALIN\",\n    \"npm\": \"2315061002\",\n    \"fakultas\": \"TEKNIK\",\n    \"jurusan\": \"TEKNIK ELEKTRO\",\n    \"program_studi\": \"S1-TEKNIK INFORMATIKA\",\n    \"pembimbing_akademik\": \"IR. GIGIH FORDA NAMA, S.T., M.T.I., IPM.\"\n  },\n  \"informasi_semester\": {\n    \"semester\": \"1\",\n    \"tahun_ajaran\": \"2023 GANJIL\",\n    \"total_kredit\": 22,\n    \"total_nilai\": 81.5,\n    \"indeks_prestasi\": 3.70\n  },\n  \"daftar_nilai\": [\n    {\n      \"kode_mk\": \"INF620101\",\n      \"nama_mk\": \"PENGETAHUAN LINGKUNGAN\",\n      \"kredit\": 2,\n      \"huruf_mutu\": \"B+\",\n      \"nilai_angka\": 7.0\n    },\n    {\n      \"kode_mk\": \"INF620102\",\n      \"nama_mk\": \"TEKNIK DIGITAL\",\n      \"kredit\": 3,\n      \"huruf_mutu\": \"A\",\n      \"nilai_angka\": 12.0\n    },\n    {\n      \"kode_mk\": \"INF620103\",\n      \"nama_mk\": \"PENGANTAR TEKNOLOGI INFORMASI\",\n      \"kredit\": 3,\n      \"huruf_mutu\": \"B+\",\n      \"nilai_angka\": 10.5\n    },\n    {\n      \"kode_mk\": \"INF620104\",\n      \"nama_mk\": \"ALGORITMA DAN PEMROGRAMAN\",\n      \"kredit\": 3,\n      \"huruf_mutu\": \"A\",\n      \"nilai_angka\": 12.0\n    },\n    {\n      \"kode_mk\": \"INF620105\",\n      \"nama_mk\": \"KALKULUS\",\n      \"kredit\": 2,\n      \"huruf_mutu\": \"C\",\n      \"nilai_angka\": 4.0\n    },\n    {\n      \"kode_mk\": \"INF620106\",\n      \"nama_mk\": \"INDUSTRI PERTANIAN\",\n      \"kredit\": 2,\n      \"huruf_mutu\": \"A\",\n      \"nilai_angka\": 8.0\n    },\n    {\n      \"kode_mk\": \"INF620107\",\n      \"nama_mk\": \"PRAKTIKUM ALGORITMA DAN PEMROGRAMAN\",\n      \"kredit\": 1,\n      \"huruf_mutu\": \"A\",\n      \"nilai_angka\": 4.0\n    },\n    {\n      \"kode_mk\": \"UNI620106\",\n      \"nama_mk\": \"Pendidikan Bahasa Indonesia\",\n      \"kredit\": 2,\n      \"huruf_mutu\": \"A\",\n      \"nilai_angka\": 8.0\n    },\n    {\n      \"kode_mk\": \"UNI620108\",\n      \"nama_mk\": \"Pendidikan Pancasila\",\n      \"kredit\": 2,\n      \"huruf_mutu\": \"A\",\n      \"nilai_angka\": 8.0\n    },\n    {\n      \"kode_mk\": \"UNI620109\",\n      \"nama_mk\": \"Pendidikan Etika dan Kearifan Lokal\",\n      \"kredit\": 2,\n      \"huruf_mutu\": \"A\",\n      \"nilai_angka\": 8.0\n    }\n  ]\n}",
+          "thoughtSignature": "EjQKMgEMOdbH0ULu9xeTSLwCUraP/JzmEUVeKt9W1sBuguyiQVVderz5Mjhii4yx+i/s/AWB"
+        }
+      ],
+      "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0
+  }
+]
